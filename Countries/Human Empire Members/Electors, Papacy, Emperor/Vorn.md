@@ -7,8 +7,8 @@ Country Rank: Kingdom
 Factions: [[Thornveil]]
 
 **[[Vorn#Demographics]]**
-Population: [[Humans]], [[Kobolds]], [[Elves]], [[Gnomes]], [[Half Elves]], [[Halflings]]
-Languages: [[Common]], [[Draconic]], [[Dwarfish]], [[Elvish]], [[Gnomish]], [[Halfling]], [[Vornese]], [[Old Watarian]]
+Population: [[Human]], [[Kobold]], [[Elf]], [[Gnome]], [[Half Elf]], [[Halfling]]
+Languages: [[Common]], [[Draconic]], [[Dwarfish]], [[Elvish]], [[Gnomish]], [[Languages/Halfling]], [[Vornese]], [[Old Watarian]]
 Religions: [[Divine Tribe]] (state religion), [[Rose Cult]] (state religion), [[The Council]], [[Elven Pantheon]], [[Dwarven Pantheon]]
 Prohibited Religions: Demonic Cults, Devilish Cults
 
