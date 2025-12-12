@@ -1,0 +1,4 @@
+---
+aliases:
+  - kobolds, Kobold, Kobolds
+---

@@ -1,0 +1,4 @@
+---
+aliases:
+  - humans, Humans, human
+---

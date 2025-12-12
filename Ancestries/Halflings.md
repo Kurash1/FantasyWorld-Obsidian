@@ -1,0 +1,4 @@
+---
+aliases:
+  - Halfling, halflings, halfling
+---
