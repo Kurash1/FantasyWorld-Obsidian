@@ -1,0 +1,1 @@
+_For the feminine version see [[Rose-Blessed]]._ 
