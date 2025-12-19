@@ -1,0 +1,3 @@
+_For the feminine version see [[Rose-Blessed]] and for the masculine version see [[Rose-Hallowed]]._ 
+
+A third type of [[Vornari]] sorcerer is also known to exist. They can inherit traits of both [[Rose-Blessed]] and [[Rose-Hallowed]] in any combination. Although rare this is a distinct expression of this particular sorcerous bloodline and fully acknowledged by the Kingdom of [[Vorn]] as equally valid. Henceforth all accommodations, potential restrictions and biological features also apply to them.

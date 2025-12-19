@@ -1,4 +1,4 @@
-_For the masculine version see [[Rose-Hallowed]]._
+_For the masculine version see [[Rose-Hallowed]] and for the nonbinary version see [[Rose-Sacred]]._
 
 Rose-Blessed are a complex bloodline of feminine sorceresses and sorcerers unique to [[Vorn]]. Created by the [[Rose Dragons]] during the demonic incursions into the new homeland of the [[Vornari]] homeland they were originally tasked with countering the fiendish hordes with mighty draconic spell fire. Nowadays they are seen as semi-religious figures that are to be revered by the general population. In our times any person could be born a Rose-Blessed which can be seen by the silver eyes upon birth. In such a case the mages of Rowan Tower are tasked to collect the child on their sixth birthday to educate them properly. Back in the old days before the empire however the Rose-Blessed married and bred exclusively with each other and the [[Rose-Hallowed]]. 
 
@@ -6,7 +6,6 @@ It is due to this almost religious reverence that many Rose-Blessed find it hard
 
 **Development of Powers**
 The Powers of a Rose-Blessed only start to manifest during Puberty. First their hair turns either white, yellow, pink, or red. Then small horn nubs start to grow. Teeth become more pointy and canine like and the tongue splits similar to a forked reptilian tongue. On occasion a Rose-Blessed can also grow a draconic tail, develop spectral wings, and or a spectral halo. It is also during the time of puberty that they start to randomly cast cantrips which makes warding their environment a very important duty for the responsible educators. During this time the body also settles into one of the four magical traditions. There seems to be little steering in this process at all and the actual tradition of power seems to be almost random or at least unknown to us.
-
 
 **Treatment and Stabilisation Measures**
 Due to their inherently unstable nature and the threat they pose to society, education is mandatory for Rose-Blessed. At Rowan Tower, they are instructed in a variety of subjects, including but not limited to the seven liberal arts, Draconic, Elvish and a broad spectrum of magic disciplines. Upon reaching full physical maturity, a Rose-Blessed must undergo a special ritual in an anti-magic chamber. There, as prescribed in ancient texts, they receive special tattoos and piercings designed to stabilise their arcane energy. The tattoos regulate the magical flow of their bodies, while the piercings help them control it.
