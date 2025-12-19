@@ -1,6 +1,6 @@
 **[[Vorn#Politics]]**
 Country Type: Settled
-Government Type: [[Monarchy]]
+Government Type: Monarchy
 Government Description: 
 - Vorn is governed mostly by its powerful estates who form the Rose Council, officially only advisory to the monarch they have held the real controll ever since the [[Guilder War]].
 Country Rank: Kingdom

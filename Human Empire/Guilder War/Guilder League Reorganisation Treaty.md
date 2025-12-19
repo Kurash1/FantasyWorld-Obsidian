@@ -6,7 +6,7 @@ Article 2.
 A permanent Embassy of the [[Guilder League]] will be established in Roseria's Fortress District.
 
 Article 3. 
-The [[Guilder League]] will pay reparations of 1 million Guilders in gold with interest and interest on interest for the lose of life, prosperity and property in Vorn. The exact interest rate will be determined by the [[vornari]] government upon activation of the treaty.
+The [[Guilder League]] will pay reparations of 1 million Guilders in gold with interest and interest on interest for the lose of life, prosperity and property in Vorn. The exact interest rate will be determined by the [[Vornari]] government upon activation of the treaty.
 
 Article 4.
 [[Guilder League]] traders in the Kingdom of [[Vorn]] are required to sell their goods for 7 days in Port Rosen. In continuation of the current trade customs of the city.
