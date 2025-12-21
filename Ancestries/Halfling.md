@@ -1,4 +1,10 @@
 ---
 aliases:
-  - Halfling, halflings, halfling
+  - Halflings
+  - halflings
+  - halfling
+  - halfling's
+  - Halfling's
+  - Halflings'
+  - halflings'
 ---

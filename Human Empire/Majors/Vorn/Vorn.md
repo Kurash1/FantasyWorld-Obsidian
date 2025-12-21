@@ -13,17 +13,17 @@ Government Description:
 - Vorn is governed mostly by its powerful estates who form the Rose Council, officially only advisory to the monarch they have held the real control ever since the [[Guilder War]].
 Country Rank: Kingdom
 Factions: [[Thornveil]]
-Organisational Memberships: [[Dragon Pact]], [[Human Empire]]
+Organisational Memberships: [[Dragon Pact]], [[Human Empire]], [[Divine Tribe Religious Organisation]], [[Magical Oversight Organisation]]
 
 **[[Vorn#Demographics]]**
-Population: [[Human]], [[Kobold]], [[Elf]], [[Gnome]], [[Halfling]]
+Population: [[Human]], [[Kobold]], [[Elf]], [[Gnome]], [[Halfling]], [[Dwarf]]
 Languages: [[Common]], [[Draconic]], [[Dwarfish]], [[Elvish]], [[Gnomish]], [[Halflingish]], [[Vornese]], [[Old Watarian]]
 Religions: [[Divine Tribe]] (state religion), [[Rose Cult]] (state religion), [[The Council]], [[Elven Pantheon]], [[Dwarven Pantheon]]
 Prohibited Religions: Demonic Cults, Devilish Cults
 
 **[[Vorn#Economics]]**
 Primary Exports: Metals, minerals, culture
-Primary Imports: Luxury goods, elven goods
+Primary Imports: Luxury goods, [[Elf|elven]] goods
 
 **[[Vorn#Diplomacy]]**
 Allies: [[Silkenglade]], [[Novenhaven]]
@@ -57,13 +57,13 @@ Provinces and Locations:
 	- Kolgmir (Tin)
 	- Kaldtsad (Alum)
 	- Baeth( Salt)
-- [[The Thornwoods]]
+- [[Thornwoods]]
 	- Elfgarden (Wine)
 	- Rowan Tower (Medicaments)
 	- Hawthorn Palace (Fruits)
 	- Watargad (Lumber)
 	-  Fordtar (Livestock)
-- [[The Rosewoods]]
+- [[Rosewoods]]
 	- Arkenrod (Lumber)
 	- Oudwell (Beeswax)
 	- Thokan (Fruits)

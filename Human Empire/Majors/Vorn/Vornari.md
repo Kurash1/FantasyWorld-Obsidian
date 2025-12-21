@@ -1,0 +1,4 @@
+---
+
+---
+The Vornari are the people of [[Vorn]] and their language is [[Vornese]]. They originally were only a tribe hailing from the valley nowadays known as the [[Sword Valley]] but nowadays every inhabitant of [[Vorn]] is seen as a Vornari. For only together all the people of [[Vorn]] were able to survive the troubling time of the collapse of the ancient empires. Be it the [[Halfling|halflings]] of [[Roan]], the [[Gnome|gnomes']] and [[Dwarf|dwarves]] of [[Nominia]], The [[Kobold|kobolds]] of [[Drakonaire]], or the semi-watarian people in the [[Thornwoods]] and the [[Rosewoods]]. They all are seen just as much as Vornari as the [[Human|humans]] in Roseria and Port Rosen and anywhere else in [[Vorn]].

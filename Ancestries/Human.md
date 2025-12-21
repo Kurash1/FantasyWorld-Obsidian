@@ -1,4 +1,10 @@
 ---
 aliases:
-  - humans, Humans, human
+  - humans
+  - Humans
+  - human
+  - human's
+  - Human's
+  - Humans'
+  - humans'
 ---

@@ -1,0 +1,12 @@
+---
+aliases:
+  - dwarf
+  - dwarfish
+  - Dwarfish
+  - Dwarves
+  - dwarves
+  - dwarf's
+  - Dwarf's
+  - Dwarves'
+  - dwarves'
+---

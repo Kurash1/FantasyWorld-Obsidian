@@ -1,4 +1,12 @@
 ---
 aliases:
-  - kobolds, Kobold, Kobolds
+  - kobold
+  - Kobolds
+  - kobolds
+  - Kobold's
+  - kobold's
+  - koboldish
+  - Koboldish
+  - Kobolds'
+  - kobolds'
 ---

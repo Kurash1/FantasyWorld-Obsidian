@@ -1,4 +1,12 @@
 ---
 aliases:
-  - gnomes, Gnome, gnome
+  - gnomes
+  - gnome
+  - Gnomes
+  - gnome's
+  - Gnome's
+  - gnomish
+  - Gnomish
+  - Gnomes'
+  - gnomes'
 ---
