@@ -1,0 +1,6 @@
+---
+tags:
+  - Cleric
+---
+Rose-Maidens are virgins that committed their life in service of the [[Rose Cult]]. They serve in many different roles in this context. From simple shrine maidens, to drake wardens all the way to service to the [[Rose-Blessed]] themselves. With the last one being the most prestigious of these positions. As the sorcerous bloodline became increasingly unstable their services grew ever more important in guarding the sacred of [[Vorn]]. Rose-Maidens are easily distinguishable by their rose embroidered attire matching the colour of the dragon they serve. Furthermore rose resembling jewellery is also always worn by them and being able to speak draconic is a must. The most important Rose-Maidens are those taking care of these [[Rose-Blessed]] that are least capable of taking care of themselves anymore as these individuals sacrificed their autonomy for a gift of divination. These [[Rose-Blessed]] would be utterly helpless without the support of the Rose-Maidens and [[Vorn]] would be left bereft of the gift of divination entirely. Henceforth harming or insulting a Rose-Maiden in any way is a grave moral and legal offence within Vorn, one that will be punished severely. In addition to this Rose-Maidens can serve in a multitude of different roles depending on what is currently deemed necessary. 
+

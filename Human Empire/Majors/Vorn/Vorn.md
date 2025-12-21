@@ -1,8 +1,16 @@
+---
+aliases:
+  - Thornen
+tags:
+  - Elector
+  - Heartlands
+---
+
 **[[Vorn#Politics]]**
 Country Type: Settled
 Government Type: Monarchy
 Government Description: 
-- Vorn is governed mostly by its powerful estates who form the Rose Council, officially only advisory to the monarch they have held the real controll ever since the [[Guilder War]].
+- Vorn is governed mostly by its powerful estates who form the Rose Council, officially only advisory to the monarch they have held the real control ever since the [[Guilder War]].
 Country Rank: Kingdom
 Factions: [[Thornveil]]
 Organisational Memberships: [[Dragon Pact]], [[Human Empire]]
@@ -83,3 +91,4 @@ It was then that their leader named [[Alexander]] arrived in their capital of Ro
 
 Additional Information: 
 - Vorn is home to three unique types of drakes: the [[Cat Drake]], [[Rowan Drake]], and [[Hawthorn Drake]]
+- The [[Elvish]] word for Vorn is Thornen which is nearly as widely used as the word Vorn itself.

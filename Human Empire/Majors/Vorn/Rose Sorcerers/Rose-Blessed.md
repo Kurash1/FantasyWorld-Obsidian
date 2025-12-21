@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Sorcerer
+---
 Rose-Blessed are a complex bloodline of sorceresses and sorcerers unique to [[Vorn]]. Created by the [[Rose Dragons]] during the demonic incursions into the new homeland of the [[Vornari]] homeland they were originally tasked with countering the fiendish hordes with mighty draconic spell fire. Nowadays they are seen as semi-religious figures that are to be revered by the general population. In our times any person could be born a Rose-Blessed which can be seen by the silver eyes upon birth. In such a case the mages of Rowan Tower are tasked to collect the child on their sixth birthday to educate them properly. Back in the old days before the empire however the Rose-Blessed married and bred exclusively with each other.
 
 It is due to this almost religious reverence that many Rose-Blessed find it hard to live normally in society. Merchants often refuse payment even though a Rose-Blessed insists on paying, inns give them the best room available, children ask them if they are angels and many more odd things one would not do for a regular person. The worst thing for many a Rose-Blessed however that any nearby [[Kobold]] that serves the [[Rose Dragons]] goes absolutely zealously insane in their presence. It is due to this reason that the Rose-Blessed reside exclusively in Hawthorn palace now. There they can find the peace and quiet they need. 
