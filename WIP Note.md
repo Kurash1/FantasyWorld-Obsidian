@@ -1,1 +1,0 @@
-Templates probably need more streamlining. Will have to look up further formatting possibilities to increase readability. Advice and tips would be appreciated. 
