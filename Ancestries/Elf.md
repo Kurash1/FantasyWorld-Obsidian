@@ -4,8 +4,6 @@ aliases:
   - elf
   - elf's
   - Elf's
-  - elvish
-  - Elvish
   - elven
   - Elven
   - elves'
