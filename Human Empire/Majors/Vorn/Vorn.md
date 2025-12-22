@@ -91,5 +91,5 @@ It was then that their leader named [[Alexander]] arrived in their capital of Ro
 
 Additional Information: 
 - Vorn is home to three unique types of drakes: the [[Cat Drake]], [[Rowan Drake]], and [[Hawthorn Drake]]
-- The [[Elvish]] word for Vorn is Thornen which is nearly as widely used as the word Vorn itself.
+- The [[Elf|elvish]] word for Vorn is Thornen which is nearly as widely used as the word Vorn itself.
 - Vorn is the author of the [[Prima Bulla Imperiala]]. 
