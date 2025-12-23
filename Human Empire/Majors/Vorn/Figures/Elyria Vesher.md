@@ -1,4 +1,4 @@
-19 year old female Menniskaelf;
+19 year old female [[Menniskaelf]];
 Empiricism Investigator, and Loremaster;
 Queen of [[Vorn]];
 Archsteward of the [[Human Empire]].
