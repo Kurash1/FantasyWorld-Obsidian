@@ -1,0 +1,3 @@
+
+[[# Silvery Crack]]:
+The [[Kobold|Kobolds]] of Silvery Crack work predominately as silver miners and coin minters of  [[Vornari]] coinage. Their coins of silver and copper are depicted with themselves in funny situations or poses. Laying together several such coins can reveal surprisingly humorous cartoon strips or even fully coherent comedies. Some of the [[kobold]] minters are widely known and famous for they always mint their names on as well. Coin collectors from all over the known world are after the most rare of those coins.  

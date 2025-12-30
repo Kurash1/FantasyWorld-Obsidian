@@ -14,6 +14,7 @@ Government Description:
 Country Rank: Kingdom
 Factions: [[Thornveil]]
 Organisational Memberships: [[Dragon Pact]], [[Human Empire]], [[Divine Tribe Religious Organisation]], [[Magical Oversight Organisation]]
+State Motto: Numquam assumas, semper confirma. (Never assume, always assure.)
 
 **[[Vorn#Demographics]]**
 Population: [[Human]], [[Kobold]], [[Elf]], [[Gnome]], [[Halfling]], [[Dwarf]]
