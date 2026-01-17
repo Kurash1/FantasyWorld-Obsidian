@@ -5,7 +5,7 @@ Navel piercing of Spellshaping Item 8
 Access: Sorcerers have access to this item.
 Price: 500gp
 Usage: worn, Bulk -
-This navel piercing is deeply anchored into your bodies inherent magical leylines. The magical energies your body naturally interacts with resonate within the piercings. Once a day when you cast a spell that triggers sorcerous potency you can chose one of the following spellshape feats to be applied to the spell you cast:
+This navel piercing is deeply anchored into your bodies inherent magical leylines. The magical energies your body naturally interacts with resonate within the piercings. Once pery day, when you cast a spell that triggers sorcerous potency, you can chose one of the following spellshape feats to be applied to the spell you cast:
 Reach Spell
 Split Shot
 Widen Spell
