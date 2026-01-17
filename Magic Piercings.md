@@ -18,12 +18,12 @@ Price 1000gp
 Usage: worn; Bulk: -
 The item bonus increases to +3.
 
-Dragon Ear-hangers of Elemental Warding Item 4
+Dragon Ear-hangers of Elemental Warding Item 6
 (invested) (magical)
-Price: 100gp 
+Price: 250gp 
 Usage: worn; Bulk -
 Prerequisite: You have some connection to dragons or similar beings be that via your ancestry, heritage, class, background, backstory, or other means. 
-These ornate ear-hangers have a dragon dutifully guarding a gem in their claws. Upon your daily preparations you roll a d6 to determine the energy damage you gain resistance 1 against until your next long rest.
+These ornate ear-hangers have a dragon dutifully guarding a gem in their claws. Upon your daily preparations you roll a d6 to determine the energy damage you gain resistance 5 against until your next long rest.
 1 Topaz: Acid
 2 Mountain Crystal: Cold
 3 Amethyst: Electricity
