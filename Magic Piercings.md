@@ -5,7 +5,7 @@ Navel piercing of Spellshaping Item 8
 Access: Sorcerers have access to this item.
 Price: 500gp
 Usage: worn, Bulk -
-This navel piercing is deeply anchored into your bodies inherent magical leylines. The magical energies your body naturally interacts with resonate within the piercings. Once pery day, when you cast a spell that triggers sorcerous potency, you can chose one of the following spellshape feats to be applied to the spell you cast:
+This navel piercing is deeply anchored into your bodies inherent magical leylines. The magical energies your body naturally interacts with resonate within the piercings. Once per day, when you cast a spell that triggers sorcerous potency, you can chose one of the following spellshape feats to be applied to the spell you cast:
 Reach Spell
 Split Shot
 Widen Spell
@@ -24,3 +24,29 @@ These ornate ear-hangers have a dragon dutifully guarding a gem in their claws. 
 4 Ruby: Fire
 5 Sapphire: Sonic
 6 You determine the effect yourself. You can only pick one of them and the effect lasts until the next long rest.
+
+Olfactory Injector item 3
+(magical)
+Price: 60gp 
+Usage: worn, Bulk -
+This little device that can be attached to a lobe piercing and any septum piercing you have allows you a greater ability to smell. Whenever you roll perception to smell you obtain a +1 Item bonus to the check. 
+Special: If you are [[Rose-Blessed]] this item will also allow you to breathe without a veil provided you do not run out of Rose Water.
+
+Greater Olfactory Injector item 15
+(uncommon) (magical)
+Price: 6500gp
+Usage: worn, Bulk - 
+This is a far more refined version of a standard Olfactory Injector. The item bonus increases to +2 and you obtain a precise sense of scent. 
+
+Auditorium helix chain item 3
+(uncommon) (magical)
+Price: 60gp
+Usage: worn, Bulk -
+This helix chain provides the user with a more refined ability to hear. Whenever you roll perception to hear you obtain a +1 item bonus to the check.
+
+Greater Auditorium helix chain item 15
+(uncommon) (magical)
+Price: 6500gp
+Usage: worn, Bulk - 
+The apex in magical hearing aids. The item bonus increases to +2 and you obtain a precise sense of hearing. 
+Special: This also works if you are normally deaf. Although the GM may determine that you need time to accustom to it if you were never able to hear before. 
