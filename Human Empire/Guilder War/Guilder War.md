@@ -13,4 +13,4 @@ Members of the [[Dragon Pact]] and their motivations:
 - [[Novenhaven]]: fending of the [[Guilder League]] blockade of their port and attempting to secure their trade routes.
 - [[Watar]]: genuine support of a [[Vornari]] rule in the empire. Bandits have long plagued their forest and the empire largely ignored it. 
 - [[The Towers]]: historical friendship with [[Vorn]] as they got help from them to rebuild after the collapse of the [[Gnomium]]. 
-- [[Lothvryn]]: Genuine dislike for [[Astviel]]'s decision to stay neutral in this conflict, hatred of the [[Tylldrakes]]. 
+- [[Lothvryn]]: Hatred of the [[Tylldrakes]]. 
