@@ -1,5 +1,5 @@
 
-Realm of gothic ruins and weird magical and superstitious effects.
+Realm of gothic ruins, esoteric magical and superstitious effects.
 Government: Court of Perpetual Beauty (Authoritarian Monarchy)
 Capital: Nikoleapolis
 Population: TBD
