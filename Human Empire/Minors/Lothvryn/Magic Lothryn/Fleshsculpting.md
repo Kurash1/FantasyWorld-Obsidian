@@ -10,7 +10,7 @@ This magical fusion of legs into a serpentine tail is popular among nobles in Lo
 Furthermore you obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
 You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
 
-Special: Due to this Graft replacing one thing for another it does not have the invested trait as a Graft usually would have. 
+Special: Due to this Graft replacing one thing for another it does not have the invested trait as a Graft usually would have. However you can only remove this magical Graft by extreme retraining or doing the regular Graft procedure in reverse for the full cost again. 
 
 Mermaidification
 (Rare) (Graft) (Magical)
@@ -18,4 +18,4 @@ Usage: fused
 Price: X gp
 The most refined fleshsculpting procedure currently known in the world. It is often undertaken by patients who absolutely detest being on land and long for the weightlessness of drifting in water or by adventurers who spend most of their time in aquatic environments. After undergoing this graft of fleshsculpting art, the patient loses their legs, which are fused into a dolphin-like tail. In addition new organs, webbed skin and fins are implanted to help with buoyancy. You however do not obtain any gills from this and have to pursue a separate graft for this.  Your land speed becomes 5ft and you obtain a 25ft swim speed. You no longer qualify for Ancestry or Heritage feats or features that require legs to function. However you now do qualify for certain Merfolk feats whose biological necessities you meet. If you want to pick the Shore Gift feat the GM might decide you have to spend active time researching the old magic it uses. 
 
-Special: Due to this Graft replacing one thing for another it does not have the invested trait as a Graft usually would have. 
+Special: Due to this Graft replacing one thing for another it does not have the invested trait as a Graft usually would have. However you can only remove this magical Graft by extreme retraining or doing the regular Graft procedure in reverse for the full cost again. 
