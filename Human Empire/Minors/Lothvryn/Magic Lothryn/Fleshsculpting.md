@@ -38,5 +38,10 @@ Prerequisite: You lost your legs prior to the Graft or your tail in case your an
 This Graft was originally developed to bring soldiers who lost their legs in battle back into the field in a far more dangerous manner. However armies soon realised that having a soldier on 4 strong legs is far superior to using horses who may or may not listen to a command. You now count as a large creature if you were not already and you obtain the Centaur features Mount and Robust. Your movement speed increases to 30ft and you qualify for centaur feats that require a quadrupedal Locomotion. The GM decides if you qualify for a Centaur feat in this way.
 
 Quadrupedal Locomotion (Greater) 12
-Price: 24000 gp
+Price: 2000 gp
 You can pick one of the centaur heritages benefits when electing this Graft. If you pick Ponygait Centaur you count as a medium sized creature. 
+
+Additional Arms 18
+(Graft) (Invested) (Magical)
+Price 24000gp
+Two additional arms have been bred from your blood and have been inserted into your shoulders. You are under the effect of a permanent quickened condition, which you can only use to strike with a weapon or an unarmed attack or to reload a weapon. In addition you also do not have to release a hand from a two handed weapon for a manipulate action or you can carry two two handed weapons at the same time.
