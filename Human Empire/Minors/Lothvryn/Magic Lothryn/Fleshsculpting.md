@@ -33,7 +33,7 @@ You gain greater darkvision instead of dark vision.
 Quadrupedal Locomotion 9
 (Uncommon) (Graft) (Invested) (Magical)
 Usage: implanted
-Price: 2000 gp
+Price: 700 gp
 Prerequisite: You lost your legs prior to the Graft or your tail in case your ancestry does not have legs.
 This Graft was originally developed to bring soldiers who lost their legs in battle back into the field in a far more dangerous manner. However armies soon realised that having a soldier on 4 strong legs is far superior to using horses who may or may not listen to a command. You now count as a large creature if you were not already and you obtain the Centaur features Mount and Robust. Your movement speed increases to 30ft and you qualify for centaur feats that require a quadrupedal Locomotion. The GM decides if you qualify for a Centaur feat in this way.
 
