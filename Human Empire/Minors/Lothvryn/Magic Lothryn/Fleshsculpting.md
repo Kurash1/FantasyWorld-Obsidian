@@ -24,7 +24,7 @@ Serpentine Eyes 12
 (Graft) (Invested) (Magical)
 Usage: implanted
 Price: 2000 gp
-You sport serpent like eyes and gain the ability to see in infrared and ultraviolet. Allowing you to see these colours as well and use a form of heat vision as a form of darkvision. 
+You sport serpent like eyes and gain the ability to see in infrared and ultraviolet. Allowing you to see these colours as well and use a form of heat vision. You gain darkvision. 
 
 Serpentine Eyes (Major) 18
 Price: 24000 gp
@@ -38,5 +38,5 @@ Prerequisite: You lost your legs prior to the Graft or your tail in case your an
 This Graft was originally developed to bring soldiers who lost their legs in battle back into the field in a far more dangerous manner. However armies soon realised that having a soldier on 4 strong legs is far superior to using horses who may or may not listen to a command. You now count as a large creature if you were not already and you obtain the Centaur features Mount and Robust. Your movement speed increases to 30ft and you qualify for centaur feats that require a quadrupedal Locomotion. The GM decides if you qualify for a Centaur feat in this way.
 
 Quadrupedal Locomotion (Greater) 12
-Price: 2000 gp
+Price: 24000 gp
 You can pick one of the centaur heritages benefits when electing this Graft. If you pick Ponygait Centaur you count as a medium sized creature. 
