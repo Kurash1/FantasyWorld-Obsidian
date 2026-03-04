@@ -10,7 +10,7 @@ This magical fusion of legs into a serpentine tail is popular among nobles in Lo
 Furthermore you obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
 You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
 
-Special: In case you obtain other serpentine figures such as serpentine eyes or venom glands the GM may decide that you also qualify for other Nagaji feats for which you would biologically qualify. The GM determines if you biologically qualify. You can however never take any cultural Nagaji feats this way. 
+Special: In case you obtain other serpentine features such as serpentine eyes or venom glands the GM may decide that you also qualify for other Nagaji feats for which you would biologically qualify. The GM determines if you biologically qualify. You can however never take any cultural Nagaji feats this way. 
 
 Mermaidification 9
 (Rare) (Graft) (Invested) (Magical)
