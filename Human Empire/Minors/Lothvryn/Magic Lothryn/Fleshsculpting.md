@@ -17,11 +17,11 @@ A feshsculpt has the fleshsculpt trait. Items with this trait are permanently pa
 
 If a creature attempts to get a new fleshsculpt when their limit on invested items has already been reduced to zero, a fleshsculpt cannot be performed ,the body will just refuse to obey. The fleshsculpt can only be performed if the creature’s limit on invested items is greater than zero. A fleshsculpter can upgrade a fleshsculpt into its greater version just like when Crafting a greater version of an item.
 
-Lamian Surgery 9
-(Rare) (Fleshsculpt) (Invested) (Magical)
+Serpentine Surgery 9
+(uncommon) (Fleshsculpt) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
-This magical fusion of legs into a serpentine tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this graft of fleshsculpting art, the patient loses their legs, which are fused into a serpentine tail.  You gain a +2 item bonus to make an impression with your Ancestry or Ancestries similar enough to yours that they qualify. The GM decides if an Ancestry qualifies for this bonus. In addition you no longer qualify for Ancestry or Heritage feats or features that require legs to function. However you now do qualify for Nagaji feats that require a tail to function. The GM decides which feats qualify. 
+This magical fusion of legs into a serpentine tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this fleshsculpting art, the patient loses their legs, which are fused into a serpentine tail.  You gain a +2 item bonus to make an impression with your Ancestry or Ancestries similar enough to yours that they qualify. The GM decides if an Ancestry qualifies for this bonus. In addition you no longer qualify for Ancestry or Heritage feats or features that require legs to function. However you now do qualify for Nagaji feats that require a tail to function. The GM decides which feats qualify. 
 
 Furthermore you obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
 You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
@@ -29,7 +29,7 @@ You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling wea
 Special: In case you obtain other serpentine features such as serpentine eyes or venom glands the GM may decide that you also qualify for other Nagaji feats for which you would biologically qualify. The GM determines if you biologically qualify. You can however never take any cultural Nagaji feats this way. 
 
 Mermaidification 9
-(Rare) (Fleshsculpt) (Invested) (Magical)
+(uncommon) (Fleshsculpt) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
 The most refined fleshsculpting procedure currently known in the world. It is often undertaken by patients who absolutely detest being on land and long for the weightlessness of drifting in water or by adventurers who spend most of their time in aquatic environments. After undergoing this graft of fleshsculpting art, the patient loses their legs, which are fused into a dolphin-like tail. In addition new organs, webbed skin and fins are implanted to help with buoyancy. You however do not obtain any gills from this and have to pursue a separate graft for this.  Your land speed becomes 5ft and you obtain a 25ft swim speed. You no longer qualify for Ancestry or Heritage feats or features that require legs to function. However you now do qualify for certain Merfolk feats whose biological requirements you meet. The GM decides if you meet the biological requirements of those feats. If you want to pick the Shore Gift feat the GM might decide you have to spend active time researching the old magic it uses. 
