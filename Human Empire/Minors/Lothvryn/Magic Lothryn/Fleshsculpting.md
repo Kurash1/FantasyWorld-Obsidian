@@ -40,12 +40,22 @@ Quadrupedal Locomotion 9
 (Rare) (Fleshsculpt) (Invested) (Magical)
 Usage: implanted
 Price: 700 gp
-This Fleshsculpt was originally developed to make soldiers in battle far more dangerous and also get rid of panicking horses. However armies soon realised that having a soldier on 4 strong legs is far superior to using horses who may or may not listen to a command. Furthermore another soldier could also ride on them doubling the amount of soldiers in the same place. You now count as a large creature if you were not already and you obtain the Centaur features Mount and Robust. Your movement speed increases to 30ft and you qualify for centaur feats that require a quadrupedal Locomotion. The GM decides if you qualify for a Centaur feat in this way.
+When undergoing this fleshsculpt pick one of the options below to which you have access via a formula. You can only pick one of them and they may not be mixed. 
+
+Centaurfication:
+This fleshsculpt was originally developed to make soldiers in battle far more dangerous and also get rid of panicking horses. However armies soon realised that having a soldier on 4 strong legs is far superior to using horses who may or may not listen to a command. Furthermore another soldier could also ride on them doubling the amount of soldiers in the same place. You now count as a large creature if you were not already and you obtain the Centaur features Mount and Robust. Your movement speed increases to 30ft and you qualify for centaur feats that require a quadrupedal Locomotion. The GM decides if you qualify for a Centaur feat in this way.
+
+Deer-like Elegance:
+Your lower body is beautifully reshaped into that of a forest stag. As new hind legs grow and hooves form you gain the ability to treat difficult terrain in the natural habitats of deer as regular terrain. Furthermore you gain an unarmed attack that deals 2d8 bludgeoning damage as antlers sprout from your head. The antlers are in the brawling group and have the shove and twin traits. 
 
 Quadrupedal Locomotion (Greater) 12
 Price: 2000 gp
-You can pick one of the centaur heritages benefits when electing this Graft. If you pick Ponygait Centaur you count as a medium sized creature. 
 
+Deer-like Elegance: 
+Your fleshsculpter reworks your body into an even more striking form. With your lower body now resembling that of a mighty Emperor Stag your Antlers now deal 4d8 bludgeoning damage and it gains the trip trait.
+
+Cenaturfication:
+You can pick one of the centaur heritages benefits. 
 
 (These are Grafts not Fleshsculpt! But could in theory be also done as fleshsculpts if the GM allows it.)
 
