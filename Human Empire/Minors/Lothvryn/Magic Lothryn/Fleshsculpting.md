@@ -34,7 +34,7 @@ Usage: fused
 Price: 700 gp
 The most refined fleshsculpting procedure currently known in the world. It is often undertaken by patients who absolutely detest being on land and long for the weightlessness of drifting in water or by adventurers who spend most of their time in aquatic environments. After undergoing this graft of fleshsculpting art, the patient loses their legs, which are fused into a dolphin-like tail. In addition new organs, webbed skin and fins are implanted to help with buoyancy. You however do not obtain any gills from this and have to pursue a separate graft for this.  Your land speed becomes 5ft and you obtain a 25ft swim speed. You no longer qualify for Ancestry or Heritage feats or features that require legs to function. However you now do qualify for certain Merfolk feats whose biological requirements you meet. The GM decides if you meet the biological requirements of those feats. If you want to pick the Shore Gift feat the GM might decide you have to spend active time researching the old magic it uses. 
 
-Special: If you also have Lamian Surgery your land form with Shore Gift is your serpentine tail.
+Special: If you also have Serpentine Surgery your land form with Shore Gift is your serpentine tail.
 
 Quadrupedal Locomotion 9
 (Rare) (Fleshsculpt) (Invested) (Magical)
