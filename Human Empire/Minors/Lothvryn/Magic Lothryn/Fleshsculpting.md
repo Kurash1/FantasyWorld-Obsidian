@@ -54,7 +54,7 @@ Price: 2000 gp
 Deer-like Elegance: 
 Your fleshsculpter reworks your body into an even more striking form. With your lower body now resembling that of a mighty Emperor Stag your Antlers now deal 4d8 bludgeoning damage and gain the trip trait.
 
-Cenaturfication:
+Centaurfication:
 You can pick one of the centaur heritages benefits. 
 
 (These are Grafts not Fleshsculpt! But could in theory be also done as fleshsculpts if the GM allows it.)
