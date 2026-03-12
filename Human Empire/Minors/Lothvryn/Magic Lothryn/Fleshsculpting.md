@@ -78,7 +78,7 @@ The following section shows some example grafts, that could be used via the vari
 (Graft) (Invested) (Magical)
 Usage: implanted
 Price: 2000 gp
-You sport serpent like eyes and gain the ability to see in infrared and ultraviolet. Allowing you to see these colours as well and use a form of heat vision. You gain darkvision at 30ft precise sense. 
+You sport serpent-like eyes and gain the ability to see in infrared and ultraviolet. Allowing you to see these colours as well and use a form of heat vision. You gain darkvision at 30ft precise sense. 
 
 **Serpentine Eyes (Major) 18**
 Price: 24000 gp
