@@ -25,7 +25,7 @@ If a creature attempts to get a new fleshsculpt when their limit on invested ite
 If you simply desire to change your sex via fleshsculpting many of the above rules do not apply. The change does not necessarily require a formula nor does it cost an invested slot. These changes are also treated as common and are easy to access by comparison. You gain no mechanical advantage out of these changes apart from being your desired sex. Treat a sex change via this in level like a Serum of Sex Shift but with more control over your new appearance and the cost of a permanent magic item of the equivalent level. Your new appearance must be normal for your ancestry. For example you may choose red hair as a human, elf or aiuvarin, even though this is an uncommon feature in your ancestry.
 
 **Variant Grafts as Fleshsculpts**
-The GM may allow taking certain grafts as fleshsculpts instead. If so their rarity goes up by one level unless they already rare and they follow the rules laid out above.
+The GM may allow taking certain grafts as fleshsculpts instead. If so their rarity goes up by one level unless they are already rare and they follow the rules laid out above.
 
 **Serpentine Surgery 9**
 (uncommon) (Fleshsculpt) (Invested) (Magical)
