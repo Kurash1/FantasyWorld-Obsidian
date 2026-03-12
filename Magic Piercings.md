@@ -25,18 +25,18 @@ These ornate ear-hangers have a dragon dutifully guarding a gem in their claws. 
 5 Sapphire: Sonic
 6 You determine the effect yourself. You can only pick one of them and the effect lasts until the next long rest.
 
-Olfactory Injector item 3
+Enchanted Olfactory Injector item 3
 (magical)
 Price: 60gp 
 Usage: worn, Bulk -
-This little device that can be attached to a lobe piercing and any septum piercing you have allows you a greater ability to smell. Whenever you roll perception to smell you obtain a +1 Item bonus to the check. 
-Special: If you are [[Rose-Blessed]] this item will also allow you to breathe without a veil provided you do not run out of Rose Water.
+This little device that can be attached to a lobe piercing and any septum piercing you have allows you a greater ability to smell. Whenever you roll perception to smell you obtain a +1 Item bonus to the check. If you are [[Rose-Blessed]] this item will also allow you to breathe without a veil provided you do not run out of Rose Water.
+Special: An unenchanted version of this item exists that does not have the invested trait and only applies it's if condition.
 
 Greater Olfactory Injector item 15
 (uncommon) (magical)
 Price: 6500gp
 Usage: worn, Bulk - 
-This is a far more refined version of a standard Olfactory Injector. The item bonus increases to +2 and you obtain a precise sense of scent. 
+This is a far more refined version of a standard Olfactory Injector. The item bonus increases to +2 and you obtain scent as a 30ft precise sense.
 
 Auditorium helix chain item 3
 (uncommon) (magical)
@@ -48,5 +48,5 @@ Greater Auditorium helix chain item 15
 (uncommon) (magical)
 Price: 6500gp
 Usage: worn, Bulk - 
-The apex in magical hearing aids. The item bonus increases to +2 and you obtain a precise sense of hearing. 
-Special: This also works if you are normally deaf. Although the GM may determine that you need time to accustom to it if you were never able to hear before. 
+The apex in magical hearing aids. The item bonus increases to +2 and you obtain a precise sense of hearing. This also works if you are normally deaf. Although the GM may determine that you need time to accustom to it if you were never able to hear before. 
+Special: An unenchanted version of this item exists that does not have the invested trait and only allows you to hear as a deaf person as if you were a non deaf person.
