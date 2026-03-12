@@ -7,15 +7,15 @@ fleshsculpts are altered tissue of a host that gives them a partially altered fo
 You must take the Alchemical Crafting or Magical Crafting feat in addition to the Graft Technician feat to implant fleschsculpts
 
 Fusing a Fleshsculpt
-Fusing a fleshsculpt is a downtime activity, using the same rules as Crafting an item except as follows. The grafter uses the Medicine skill and whatever skill they chose to qualify for this. The average of both rolls is the result of the fleshsculpt. The creature must be a willing participant and must be present throughout the process. The fleshsculpter can only fleshsculpt one fleshsculpt at a time. Once the fleshsculpting is complete, the fused subject can begin using the fleshsculpt. fleshsculpts are always created from the subjects own physical body and only forms similar enough to one's own ancestry can be taken. For example a mammalian ancestry can only get a mammalian or reptilian fleshsculpting done. Likewise a plant ancestry can only take options that are either floral or fungal, anything else would be too alien. The GM determines if the sculpt you want is biologically similar enough to be undertaken by you. 
+Fusing a fleshsculpt is a downtime activity, using the same rules as Crafting an item except as follows. The grafter uses the Medicine skill and whatever skill they chose to qualify for this. The average of both rolls is the result of the fleshsculpt. The creature must be a willing participant and must be present throughout the process. The fleshsculpter can only fleshsculpt one fleshsculpt at a time. Once the fleshsculpting is complete, the fused subject can begin using the fleshsculpt. fleshsculpts are always created from the subjects own physical body and only forms similar enough to one's own ancestry can be taken. For example a mammalian ancestry can only get a mammalian or reptilian fleshsculpting done. Likewise a plant ancestry can only take options that are either floral or fungal, anything else would be too alien. The GM determines if the sculpt you want is biologically similar enough to be undertaken by you. Likewise not all types of fleshsculpt can stack. For example a merfolk form cannot stack with quadrupedal locomotion as one form requires legs while the other requires the absence of them. Unless specifically stated the GM determines if two fleshsculpts can stack or not. 
 
 Damaging a Fleshsculpt
 Once a fleshsculpt is successfully performed, it is part of the regular body of the subject and can't take damage separately, just like any original body part. If a fleshsculpt is ever severed from the subject's body, it can be reconnected by any method that allows a severed body part to be reattached (such as the regenerate spell). If the fleshsculpt is destroyed before it can be reattached, it can be regrown by any effect that allows it to be regrown by any effect that allows to regrow lost organs. 
 
 The Fleshsculpt Trait
-A feshsculpt has the fleshsculpt trait. Items with this trait are permanently part of the subject's body and reduce the number of items a creature can invest each day by 1. Each fleshsculpt has the invested trait to indicate this limitation; a fleshsculpt is equivalent to an uncommon or rare magical item that the subject has no choice but to invest unless the process is reversed by the same rules listed here, a wish spell, or some equally hard to access means as determined by the GM. 
+A feshsculpt has the fleshsculpt trait. Items with this trait are permanently part of the subject's body and reduce the number of items a creature can invest each day by 1. Each fleshsculpt has the invested trait to indicate this limitation; a fleshsculpt is equivalent to an uncommon or rare magical item that the subject has no choice but to invest unless the process is reversed by the same rules listed here, a wish spell, or some equally hard to access means as determined by the GM. Reversing the process by the same rules listed here requires a new formula on how to reverse the process. It's cost and rarity is equivalent to the fleshsculpt you want to undo and it can always be found in the same location as the original formula.
 
-If a creature attempts to get a new fleshsculpt when their limit on invested items has already been reduced to zero, a fleshsculpt cannot be performed ,the body will just refuse to obey. The fleshsculpt can only be performed if the creature’s limit on invested items is greater than zero. A fleshsculpter can upgrade a fleshsculpt into its greater version just like when Crafting a greater version of an item.
+If a creature attempts to get a new fleshsculpt when their limit on invested items has already been reduced to zero, a fleshsculpt cannot be performed ,the body will just refuse to obey. The fleshsculpt can only be performed if the creature’s limit on invested items is greater than zero. A fleshsculpter can upgrade a fleshsculpt into its greater version just like when crafting a greater version of an item.
 
 Serpentine Surgery 9
 (uncommon) (Fleshsculpt) (Invested) (Magical)
@@ -28,7 +28,7 @@ You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling wea
 
 Special: In case you obtain other serpentine features such as serpentine eyes or venom glands the GM may decide that you also qualify for other Nagaji feats for which you would biologically qualify. The GM determines if you biologically qualify. You can however never take any cultural Nagaji feats this way. 
 
-Mermaidification 9
+Merfolkification 9
 (uncommon) (Fleshsculpt) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
@@ -36,7 +36,7 @@ The most refined fleshsculpting procedure currently known in the world. It is of
 
 Special: If you also have Serpentine Surgery your land form with Shore Gift is your serpentine tail.
 
-Greater Mermaidification 12
+Greater Merfolkiification 12
 Price 2000 gp
 As your fleshsculpter inserts aesthetically fitting auxiliary gills along the sides of your neck, adapts your  blood, and fashions airbags in your tail make you both more nimble and light but also capable of remaining underwater for a much longer time.  Furthermore they also make your hair far more sensitive to the ocean currents. Your swim speed increases to 30ft, you can remain underwater for up to 20 minutes before having to resurface again and you gain wavesense as a precise sense.
 
