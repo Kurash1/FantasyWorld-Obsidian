@@ -11,7 +11,7 @@ fleshsculpts are altered tissue of a host that gives them a partially altered fo
 You must take the Alchemical Crafting or Magical Crafting feat in addition to the Graft Technician feat to implant fleshsculpts.
 
 **Fusing a Fleshsculpt**
-Fusing a fleshsculpt is a downtime activity, using the same rules as Crafting an item except as follows. The grafter uses the Medicine skill and whatever skill they chose to qualify for this. The average of both rolls is the result of the fleshsculpt. The creature must be a willing participant and must be present throughout the process. The fleshsculpter can only fleshsculpt one fleshsculpt at a time. Once the fleshsculpting is complete, the fused subject can begin using the fleshsculpt. fleshsculpts are always created from the subjects own physical body or newly grown tissue. Only forms similar enough to one's own Ancestry may be chosen. For example, a mammalian Ancestry may only select mammalian or reptilian fleshsculpts; A plant Ancestry may only selecte floral or fungal forms, anything else would be too alien. The GM determines biological plausability. Likewise not all types of fleshsculpt can stack. For example a merfolk form cannot stack with quadrupedal locomotion as one form requires legs while the other requires the absence of them. Unless specifically stated the GM determines if two fleshsculpts can stack or not. 
+Fusing a fleshsculpt is a downtime activity, using the same rules as Crafting an item except as follows. The grafter uses the Medicine skill and whatever skill they chose to qualify for this. The average of both rolls is the result of the fleshsculpt. The creature must be a willing participant and must be present throughout the process. The fleshsculpter can only fleshsculpt one fleshsculpt at a time. Once the fleshsculpting is complete, the fused subject can begin using the fleshsculpt. fleshsculpts are always created from the subjects own physical body or newly grown tissue. Only forms similar enough to one's own Ancestry may be chosen. For example, a mammalian Ancestry may only select mammalian or reptilian fleshsculpts; A plant Ancestry may only select floral or fungal forms, anything else would be too alien. The GM determines biological plausability. Likewise not all types of fleshsculpt can stack. For example a merfolk form cannot stack with quadrupedal locomotion as one form requires legs while the other requires the absence of them. Unless specifically stated the GM determines if two fleshsculpts can stack or not. 
 
 **Damaging a Fleshsculpt**
 Once a fleshsculpt is successfully performed, it is part of the regular body of the subject and can't take damage separately, just like any original body part. If a fleshsculpt is ever severed from the subject's body, it can be reconnected by any method that allows a severed body part to be reattached (such as the regenerate spell). Once a fleshsculpt is destroyed before it can be reattached, it can be regrown by any effect that allows regrowth of lost organs.
@@ -71,7 +71,7 @@ Your lower body is reworked into a more specific equestrian form through the fle
 **Deer-like Elegance (Greater):** 
 Your fleshsculpter reworks your body into an even more striking form. With your lower body now resembling that of a mighty Emperor Stag your Antlers now deal 4d8 bludgeoning damage and gain the trip trait.
 
-**Grafts as Fleschculpts:**
+**Grafts as Fleshculpts:**
 The following section shows some example grafts, that could be used via the variant rule Grafts as Fleshsculpts.
 
 **Serpentine Eyes 12**
