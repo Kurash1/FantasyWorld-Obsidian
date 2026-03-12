@@ -36,6 +36,10 @@ The most refined fleshsculpting procedure currently known in the world. It is of
 
 Special: If you also have Serpentine Surgery your land form with Shore Gift is your serpentine tail.
 
+Greater Mermaidification 12
+Price 2000 gp
+As your fleshsculpter inserts aesthetically fitting auxiliary gills along the sides of your neck, adapts your  blood, and fashions airbags in your tail make you both more nimble and light but also capable of remaining underwater for a much longer time.  Furthermore they also make your hair far more sensitive to the ocean currents. Your swim speed increases to 30ft, you can remain underwater for up to 20 minutes before having to resurface again and you gain wavesense as a precise sense.
+
 Quadrupedal Locomotion 9
 (Fleshsculpt) (Invested) (Magical)
 Usage: implanted
@@ -51,11 +55,11 @@ This Fleshsculpt is seen as a  potential right of passage in some elven druid ci
 Quadrupedal Locomotion (Greater) 12
 Price: 2000 gp
 
+Centaurfication:
+Your lower body is reworked into a more specific equestrian form through the fleshsculpting arts already used to form it in the first place. You can pick one of the centaur heritages benefits. 
+
 Deer-like Elegance: 
 Your fleshsculpter reworks your body into an even more striking form. With your lower body now resembling that of a mighty Emperor Stag your Antlers now deal 4d8 bludgeoning damage and gain the trip trait.
-
-Centaurfication:
-You can pick one of the centaur heritages benefits. 
 
 (These are Grafts not Fleshsculpt! But could in theory be also done as fleshsculpts if the GM allows it.)
 
