@@ -76,7 +76,7 @@ Your Corpomorpher reworks your body into an even more striking form. With your l
 Price: 2000 gp 
 Prerequisite: You have underwent Quadrupedal Locomotion
 
-Your quadrupedal body is adapted to also be useful underwater but unlike an ordinary Hippocamp you are still useful on land as well. Your tail is remodelled to be dolphin-like and fins are added close to your hooves. Your land speed is reduced to 25ft and you obtain a 30ft swim speed. Additionally you also obtain a tail attack which is a reach of 10ft weapon and deals 1d6 bludgeoning damage. 
+Your quadrupedal body is adapted to also be useful underwater but unlike an ordinary Hippocamp you are still useful on land as well. Your tail is remodelled to be dolphin-like and fins are added close to your hooves. Your land speed is reduced by 5ft and you obtain a 30ft swim speed. Additionally you also obtain a tail attack which is a reach of 10ft weapon and deals 1d6 bludgeoning damage. 
 
 Special: You may chose the greater version of Merfolkification with this Corpomorphosis fused into your body. If you do so treat greater Merfolkification as 2 levels higher in terms of access and cost. 
 
