@@ -105,7 +105,7 @@ You sport serpent-like eyes and gain the ability to see in infrared and ultravio
 Price: 24000 gp
 You gain greater darkvision instead of darkvision.
 
-**Additional Arms 18**
+**Additional Arms 4**
 (Graft) (Invested) (Magical)
-Price 24000gp
-Two additional arms have been bred from your blood and have been inserted into your shoulders. You are under the effect of a permanent quickened condition, which you can only use to strike with a weapon or an unarmed attack or to reload a weapon. In addition you also do not have to release a hand from a two handed weapon for a manipulate action or you can carry two two-handed weapons at the same time.
+Price 100 gp
+Two additional arms have been bred from your blood and have been inserted into your shoulders. You do not have to release a hand from a two handed weapon for a manipulate action or you can carry two two-handed weapons at the same time.
