@@ -11,7 +11,7 @@ Corpomorphs are altered tissue of a host that gives them a partially altered for
 You must take the Alchemical Crafting or Magical Crafting feat in addition to the Graft Technician feat to implant Corpomorphs.
 
 **Fusing a Corpomorph**
-Fusing a Corpomorph is a downtime activity, using the same rules as Crafting an item except as follows. The grafter uses the Medicine skill and whatever skill they chose to qualify for this. The average of both rolls is the degree of success of the check. The creature must be a willing participant and must be present throughout the process. The Corpomorpher can only Corpomorphing one Corpomorph at a time. Once the Corpomorphing is complete, the fused subject can begin using the Corpomorph. Corpomorphing are always created from the subjects own physical body or newly grown tissue. Only forms similar enough to one's own Ancestry may be chosen. For example, a mammalian Ancestry may only select mammalian or reptilian Corpomorphs; A plant Ancestry may only select floral or fungal forms, anything else would be too alien. The GM determines biological plausibility. Likewise not all types of Corpomorphs can stack. For example a merfolk form cannot stack with quadrupedal locomotion as one form requires legs while the other requires the absence of them. Unless specifically stated the GM determines if two Corpomorphs can stack or not. 
+Fusing a Corpomorph is a downtime activity, using the same rules as Crafting an item except as follows. The grafter uses the Medicine skill and whatever skill they chose to qualify for this. The average of both rolls is the degree of success of the check. The creature must be a willing participant and must be present throughout the process. The Corpomorpher can only Corpomorphing one Corpomorph at a time. Once the Corpomorphing is complete, the fused subject can begin using the Corpomorph. Corpomorphing are always created from the subjects own physical body or newly grown tissue. Only forms similar enough to one's own Ancestry or narratively justified may be chosen. The GM determines both biological plausibility and narrative justification. Likewise not all types of Corpomorphs can stack. For example a merfolk form cannot stack with quadrupedal locomotion as one form requires legs while the other requires the absence of them. Unless specifically stated the GM determines if two Corpomorphs can stack or not. 
 
 **Damaging a Corpomorph**
 Once a Corpomorphing is successfully performed, it is part of the regular body of the subject and can't take damage separately, just like any original body part. If a Corpomorphing is ever severed from the subject's body, it can be reconnected by any method that allows a severed body part to be reattached (such as the regenerate spell). Once a Corpomorphing is destroyed before it can be reattached, it can be regrown by any effect that allows regrowth of lost organs.
@@ -52,7 +52,7 @@ Your Corpomorpher inserts aesthetically fitting auxiliary gills along the sides 
 
 **Quadrupedal Locomotion 9**
 (Corpomorph) (Invested) (Magical)
-Usage: implanted
+Usage: fused
 Price: 700 gp
 When undergoing this Corpomorph pick one of the options below to which you have access via a formula. You can only pick one of them and they may not be mixed. 
 
@@ -70,6 +70,27 @@ Your lower body is reworked into a more specific equestrian form through the Cor
 
 **Deer-like Elegance (Greater):** 
 Your Corpomorpher reworks your body into an even more striking form. With your lower body now resembling that of a mighty Emperor Stag your Antlers now deal 4d8 bludgeoning damage and gain the trip trait.
+
+**Hippocampification 12**
+(Rare) (Corpomorph) (Invested) (Magical)
+Price: 2000 gp 
+Prerequisite: You have underwent Quadrupedal Locomotion
+
+Your quadrupedal body is adapted to also be useful underwater but unlike an ordinary Hippocamp you are still useful on land as well. Your tail is remodelled to be dolphin-like and fins are added close to your hooves. Your land speed is reduced to 25ft and you obtain a 30ft swim speed. Additionally you also obtain a tail attack which is a reach of 10ft weapon and deals 1d6 bludgeoning damage. 
+
+Special: You may chose the greater version of Merfolkification with this Corpomorphosis fused into your body. If you do so treat greater Merfolkification as 2 levels higher in terms of access and cost. 
+
+**Arachnophilia 9**
+(Rare) (Corpomorph) (Invested) (Magical)
+Usage: fused
+Price 700 gp
+Your lower body are completely liquefied and your biomass reshaped into a chitinous exoskeleton. Your torso now finds itself resting upon a spider's or scorpion's body instead of your original lower limbs.  Chose either spider or scorpion as form. If you do so you gain the following benefits:
+
+**Spider:** 
+Your land speed increases to 30ft and you obtain a climb speed of 30ft. In addition you can now weave spider silk strings from your newly obtained physiology which you may use as a rope or to build webs with. Building a web takes 1d4 hours of work and every creature caught int the web is immobilised if they do not succeed at a DC15 Fortitude saving throw.  A creature can attempt another check to free itself on the beginning of its turn. Alternatively a creature can also be instantly freed by burning the web. 
+
+**Scorpion:**
+You now stand proudly on 8 legs and obtain a stinger full of venom.  The stinger is an agile, reach of 10ft weapon and deals 1d8 slashing damage. You can attempt to grab a creature you have successfully stung with it. Any creature successfully stung by you also has to succeed at a DC 18 Fortitude saving throw or be poisoned as follows: **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and enfeebled 1 (1 round); **Stage 2** 2d10 poison damage and enfeebled 1 (1 round); **Stage 3** 2d10 poison damage and enfeebled 2 (1 round)
 
 **Grafts as Corpomorph:**
 The following section shows some example grafts, that could be used via the variant rule Grafts as Corpomorph.
