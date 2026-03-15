@@ -48,7 +48,7 @@ Special: If you also have Serpentine Surgery your land form with Shore Gift is y
 
 **Greater Merfolkification 12**
 Price 2000 gp
-Your Corpomorpher inserts aesthetically fitting auxiliary gills along the sides of your neck, adapts your blood and organs, and fashions airbags in your tail. These additions make you both more nimble and agile in the water. You can now also remain underwater for a much longer time.  Your swim speed increases to 30ft, you can remain underwater for up to 20 minutes before having to resurface again (If you have the Breath Control feat this means you can stay underwater for up to 500 minutes). Furthermore your hair is also made more sensitive to the water's currents. You gain wavesense as a  40ft precise sense.
+Your Corpomorpher inserts aesthetically fitting auxiliary gills along the sides of your neck, adapts your blood and organs, and fashions airbags in your tail. These additions make you both more nimble and agile in the water. You can now also remain underwater for a much longer time.  Your swim speed increases to 30ft, you can remain underwater for up to 20 minutes before having to resurface again (If you have the Breath Control feat this means you can stay underwater for up to 500 minutes). Furthermore your hair is also made more sensitive to the water's currents. You gain wavesense as a  40ft precise sense. Lastly you can also sleep like a dolphin with only half of your brain sleeping. During this time you can dive up to gasp for air but take no other actions that would interrupt your long rest as normal.
 
 **Quadrupedal Locomotion 9**
 (Corpomorph) (Invested) (Magical)
@@ -74,7 +74,7 @@ Your Corpomorpher reworks your body into an even more striking form. With your l
 **Hippocampification 12**
 (Rare) (Corpomorph) (Invested) (Magical)
 Price: 2000 gp 
-Prerequisite: You have underwent Quadrupedal Locomotion
+Prerequisite: You have underwent Quadrupedal Locomotion or you already had a quadrupedal Ancestry
 
 Your quadrupedal body is adapted to also be useful underwater but unlike an ordinary Hippocamp you are still useful on land as well. Your tail is remodelled to be dolphin-like and fins are added close to your hooves. Your land speed is reduced by 5ft and you obtain a 30ft swim speed. Additionally you also obtain a tail attack which is a reach of 10ft weapon and deals 1d6 bludgeoning damage. 
 
@@ -109,3 +109,6 @@ You gain greater darkvision instead of darkvision.
 (Graft) (Invested) (Magical)
 Price 100 gp
 Two additional arms have been bred from your blood and have been inserted into your shoulders. You do not have to release a hand from a two handed weapon for a manipulate action or you can carry two two-handed weapons at the same time.
+
+**Underwater Campaigns**
+As a variant the GM can consider giving players merfolkification and its greater version for free at no cost and no investment. This should make underwater only campaigns more viable while not adding any form of power creep. Players can then chose from a far bigger variety of ancestries than just seaborne ancestries. Quadrupedal characters may obtain Hippocampification. Although in that case Hippocampification reduces landspeed to 5ft and also locks any leg based feats and features.
