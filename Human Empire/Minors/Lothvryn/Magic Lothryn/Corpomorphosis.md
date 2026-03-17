@@ -27,8 +27,12 @@ If you simply desire to change your sex via Corpomorphing many of the above rule
 **Variant Grafts as Corpomorphs**
 The GM may allow taking certain grafts as Corpomorphs instead. If so their rarity goes up by one level unless they are already rare and they follow the rules laid out above.
 
+**Canine and Feline Adaptation 4**
+(Uncommon) (Corpomorph) (Invested) (Magical)
+You grow a set of canine or feline ears, a fitting tail and your feet are transformed into paws. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak. In addition your new tail can help you with balancing narrow surfaces or uneasy ground. You gain a +1 item bonus on checks for balancing. 
+
 **Serpentine Surgery 9**
-(uncommon) (Corpomorph) (Invested) (Magical)
+(Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
 This magical fusion of legs into a serpentine tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this Corpomorphing art, the patient loses their legs, which are fused into a serpentine tail. You gain a +2 item bonus to make an impression. In addition you no longer qualify for feats or features that require legs to function. However you now do qualify for any Nagaji feats that require a tail to function. The GM decides which feats qualify. 
@@ -39,7 +43,7 @@ You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling wea
 Special: In case you obtain other serpentine features such as serpentine eyes or venom glands the GM may decide that you also qualify for other Nagaji feats for which you would biologically qualify. The GM determines if you biologically qualify. You can however never take any cultural Nagaji feats this way. 
 
 **Merfolkification 9**
-(uncommon) (Corpomorph) (Invested) (Magical)
+(Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
 The most refined Corpomorphing procedure currently known in the world. It is often undertaken by clients who absolutely detest being on land and long for the weightlessness of drifting in water or by adventurers who spend most of their time in aquatic environments. After undergoing this graft of Corpomorphing art, the patient loses their legs, which are fused into a dolphin-like tail. In addition new organs, webbed skin and fins are grown by your body to help with buoyancy. You however do not obtain any gills from this. Your land speed becomes 5ft and you obtain a 25ft swim speed. You no longer qualify for feats or features that require legs to function. However you now do qualify for certain Merfolk feats whose biological requirements you meet. The GM decides if you meet the biological requirements of those feats. If you want to pick the Shore Gift feat the GM might decide you have to spend active time researching the old magic it uses. 
