@@ -117,3 +117,24 @@ You gain greater darkvision instead of darkvision.
 Usage: implanted
 Price 100 gp
 Two additional arms have been bred from your blood and have been inserted into your shoulders. You do not have to release a hand from a two handed weapon for a manipulate action or you can carry two two-handed weapons at the same time.
+
+Maybe possible options?
+- Slime (change shape and squeeze through tight spaces?)
+- Mycelian network (Ghorans and Leshies are allowed to eat food. No more need for sunlight bottles)
+- Drake (Not sure what to give that would not be too op. Perhaps AC?)
+- Wyrm (no legs dragon)
+- Octopus (tentacles might be op so I am wary.)
+- Rabbit
+- Sheep/Goat/Satyr/Cattle
+- Photosynthesis
+- Insectoid options?
+- Lobster not sure about the whole shears instead of hands thing though perhaps too similar to scorpion
+- Avian options -> harpy?
+- Nymphs -> become a humanoid plant?
+
+Probably has to be tweaked
+- Exact numbers
+- Exact benefits might have to be split into multiple tiers of one item or actually reduced
+- Rules more clarified?
+- Some fluff?
+- Clothing Adaptation rules via free cast of restyle?
