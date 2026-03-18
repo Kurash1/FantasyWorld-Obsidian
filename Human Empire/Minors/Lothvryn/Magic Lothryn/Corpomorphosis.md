@@ -34,22 +34,21 @@ As a variant the GM can consider giving players merfolkification and its greater
 (Uncommon) (Corpomorph) (Invested) (Magical)
 You grow a set of canine or feline ears, a fitting tail and your feet are transformed into paws. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak. In addition your new tail can help you with balancing narrow surfaces or uneasy ground. You gain a +1 item bonus on checks for balancing. 
 
-**Serpentine Form 9**
+**Coiling Tail 9**
 (Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
-This magical fusion of legs into a serpentine tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this Corpomorphing art, the patient loses their legs, which are fused into a serpentine tail. You gain a +2 item bonus to make an impression. In addition you no longer qualify for feats or features that require legs to function. However you now do qualify for any Nagaji feats that require a tail to function. The GM decides which feats qualify. 
+Whether its a serpentine, wym-like or any other form this magical fusion of legs into a coiling tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this Corpomorphing art, the patient loses their legs, which are fused into a serpentine tail. You gain a +2 item bonus to make an impression. In addition you no longer qualify for feats or features that require legs to function. However you now do qualify for any Nagaji feats that require a tail to function. The GM decides which feats qualify. 
 
 Furthermore you obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
 You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
 
-Special: In case you obtain other serpentine features such as serpentine eyes or venom glands the GM may decide that you also qualify for other Nagaji feats for which you would biologically qualify. The GM determines if you biologically qualify. You can however never take any cultural Nagaji feats this way. 
 
 **Merfolkification 9**
 (Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
-The most refined Corpomorphing procedure currently known in the world. It is often undertaken by clients who absolutely detest being on land and long for the weightlessness of drifting in water or by adventurers who spend most of their time in aquatic environments. After undergoing this graft of Corpomorphing art, the patient loses their legs, which are fused into a dolphin-like tail. In addition new organs, webbed skin and fins are grown by your body to help with buoyancy. You however do not obtain any gills from this. Your land speed becomes 5ft and you obtain a 25ft swim speed. You no longer qualify for feats or features that require legs to function. However you now do qualify for certain Merfolk feats whose biological requirements you meet. The GM decides if you meet the biological requirements of those feats. If you want to pick the Shore Gift feat the GM might decide you have to spend active time researching the old magic it uses. 
+The most refined Corpomorphing procedure currently known in the world. It is often undertaken by clients who absolutely detest being on land and long for the weightlessness of drifting in water or by adventurers who spend most of their time in aquatic environments. After undergoing this graft of Corpomorphing art, the patient loses their legs, which are fused into a dolphin-like or piscine tail. In addition new organs, webbed skin and fins are grown by your body to help with buoyancy. You however do not obtain any gills from this. Your land speed becomes 5ft and you obtain a 25ft swim speed. You no longer qualify for feats or features that require legs to function. However you now do qualify for certain Merfolk feats whose biological requirements you meet. The GM decides if you meet the biological requirements of those feats. If you want to pick the Shore Gift feat the GM might decide you have to spend active time researching the old magic it uses. 
 
 Special: If you also have Serpentine Surgery your land form with Shore Gift is your serpentine tail.
 
@@ -93,11 +92,28 @@ Usage: fused
 Price 700 gp
 Your lower body are completely liquefied and your biomass reshaped into a chitinous exoskeleton. Your torso now finds itself resting upon a spider's or scorpion's body instead of your original lower limbs.  Chose either spider or scorpion as form. If you do so you gain the following benefits:
 
-**Spider:** 
+**Spider** 
 Your land speed increases to 30ft and you obtain a climb speed of 30ft. In addition you can now weave spider silk strings from your newly obtained physiology which you may use as a rope or to build webs with. Building a web takes 1d4 hours of work and every creature caught int the web is immobilised if they do not succeed at a DC15 Fortitude saving throw.  A creature can attempt another check to free itself on the beginning of its turn. Alternatively a creature can also be instantly freed by burning the web. Furthermore you may pick Anadi feats for which you meet the biological criteria as determined by the GM.
 
-**Scorpion:**
-You now stand proudly on 8 legs and obtain a stinger full of venom.  The stinger is an agile, reach of 10ft weapon and deals 1d8 slashing damage. You can attempt to grab a creature you have successfully stung with it. Any creature successfully stung by you also has to succeed at a DC 18 Fortitude saving throw or be poisoned as follows: **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and enfeebled 1 (1 round); **Stage 2** 2d10 poison damage and enfeebled 1 (1 round); **Stage 3** 2d10 poison damage and enfeebled 2 (1 round)
+**Scorpion**
+You now stand proudly on 8 legs and obtain a stinger full of venom.  The stinger is an agile, reach of 10ft weapon and deals 1d8 slashing damage. You can attempt to grab a creature you have successfully stung with it. Any creature successfully stung by you also has to succeed at a DC 18 Fortitude saving throw or be poisoned as follows: **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and enfeebled 1 (1 round); **Stage 2** 2d10 poison damage and enfeebled 1 (1 round); **Stage 3** 2d10 poison damage and enfeebled 2 (1 round).
+
+**Malleable Form 17**
+(Rare) (Corpomorph) (Invested) (Magical)
+Usage: fused
+Price: 15000 gp
+Your entire body is dissolved into a gelatinous ooze-like form. If you attempt a deception check to pass as a generic member of any ancestry of the same size as you, you automatically succeed. Although if you want to pass as a specific member of that ancestry you still roll as normal butwith a +3 item bonus to the check. In addition you gain the effects of the Quick Squeeze feat. 
+
+**Malleable Form (Greater) 20**
+Price: 14000 gp 
+You gain the effects of the Implausible Infilitration feat.
+
+**Mykorrhiza 4**
+(Uncommon) (Corpomorph) (Invested) (Magical)
+Usage: fused
+Price: 100gp 
+Prerequisite: You are a plant
+Tiny fungal organisms enter a symbiotic relationship with you. In return for the sugar your photosynthesis produces they ensure that you won't starve in case of the absence of sunlight. Should no sunlight be present you can also survive like a creature with the fungus trait.
 
 **Grafts as Corpomorph:**
 The following section shows some example grafts, that could be used via the variant rule Grafts as Corpomorphs.
@@ -119,16 +135,8 @@ Price 100 gp
 Two additional arms have been bred from your blood and have been inserted into your shoulders. You do not have to release a hand from a two handed weapon for a manipulate action or you can carry two two-handed weapons at the same time.
 
 Maybe possible options?
-- Slime (change shape and squeeze through tight spaces?)
-- Mycelian network (Ghorans and Leshies are allowed to eat food. No more need for sunlight bottles)
-- Drake (Not sure what to give that would not be too op. Perhaps AC?)
-- Wyrm (no legs dragon)
-- Octopus (tentacles might be op so I am wary.)
-- Rabbit
-- Sheep/Goat/Satyr/Cattle
-- Photosynthesis
+- Drake (Not sure what to give that would not be too op. Perhaps AC?
 - Insectoid options?
-- Lobster not sure about the whole shears instead of hands thing though perhaps too similar to scorpion
 - Avian options -> harpy?
 - Nymphs -> become a humanoid plant?
 
