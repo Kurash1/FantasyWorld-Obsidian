@@ -48,7 +48,6 @@ Whether its a serpentine, wyrm-like or any other form this magical fusion of leg
 Furthermore you obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
 You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
 
-
 **Merfolkification 9**
 (Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
