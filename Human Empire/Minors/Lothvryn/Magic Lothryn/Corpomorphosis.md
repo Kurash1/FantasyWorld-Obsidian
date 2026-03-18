@@ -128,12 +128,6 @@ You sport serpent-like eyes and gain the ability to see in infrared and ultravio
 Price: 24000 gp
 You gain greater darkvision instead of darkvision.
 
-**Additional Arms 4**
-(Graft) (Invested) (Magical)
-Usage: implanted
-Price 100 gp
-Two additional arms have been bred from your blood and have been inserted into your shoulders. You do not have to release a hand from a two handed weapon for a manipulate action or you can carry two two-handed weapons at the same time.
-
 Maybe possible options?
 - Drake (Not sure what to give that would not be too op. Perhaps AC?
 - Insectoid options?
