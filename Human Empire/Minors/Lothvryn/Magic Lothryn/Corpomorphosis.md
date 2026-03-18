@@ -90,7 +90,7 @@ Special: You may chose the greater version of Merfolkification with this Corpomo
 (Rare) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price 700 gp
-Your lower body are completely liquefied and your biomass reshaped into a chitinous exoskeleton. Your torso now finds itself resting upon a spider's or scorpion's body instead of your original lower limbs.  Chose either spider or scorpion as form. If you do so you gain the following benefits:
+Your lower body are completely liquefied and your biomass reshaped into a chitinous exoskeleton. Your torso now finds itself resting upon a spider's or scorpion's body instead of your original lower limbs.  Choose either spider or scorpion as form. If you do so you gain the following benefits:
 
 **Spider** 
 Your land speed increases to 30ft and you obtain a climb speed of 30ft. In addition you can now weave spider silk strings from your newly obtained physiology which you may use as a rope or to build webs with. Building a web takes 1d4 hours of work and every creature caught int the web is immobilised if they do not succeed at a DC15 Fortitude saving throw.  A creature can attempt another check to free itself on the beginning of its turn. Alternatively a creature can also be instantly freed by burning the web. Furthermore you may pick Anadi feats for which you meet the biological criteria as determined by the GM.
