@@ -30,9 +30,9 @@ The GM may allow taking certain grafts as Corpomorphs instead. If so their rarit
 **Underwater Campaigns**
 As a variant the GM can consider giving players merfolkification and its greater version for free at no cost and no investment. This should make underwater only campaigns more viable while not adding any form of power creep. Players can then chose from a far bigger variety of ancestries than just seaborne ancestries. Quadrupedal characters may obtain Hippocampification and greater Merfolkification. Although in that case Hippocampification reduces landspeed to 5ft and also locks any leg based feats and features.
 
-**Canine or Feline Adaptation 4**
+mammalian Adaptation 4**
 (Uncommon) (Corpomorph) (Invested) (Magical)
-You grow a set of canine or feline ears, a fitting tail and your feet are transformed into paws. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak. In addition your new tail can help you with balancing narrow surfaces or uneasy ground. You gain a +1 item bonus on checks for balancing. 
+You grow a set of canine or mammalian ears, a fitting tail and your feet are transformed into paws or hooves. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak if you new form has paws or a 5ft movement land speed increase if your new form has hooves. In addition your new tail can help you with balancing narrow surfaces or uneasy ground. You gain a +1 item bonus on checks for balancing. 
 
 **Coiling Tail 9**
 (Uncommon) (Corpomorph) (Invested) (Magical)
