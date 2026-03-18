@@ -43,7 +43,7 @@ You grow a set of mammalian ears, a fitting tail and your feet are transformed i
 (Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
-Whether its a serpentine, wym-like or any other form this magical fusion of legs into a coiling tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this Corpomorphing art, the patient loses their legs, which are fused into a serpentine tail. You gain a +2 item bonus to make an impression. In addition you no longer qualify for feats or features that require legs to function. However you now do qualify for any Nagaji feats that require a tail to function. The GM decides which feats qualify. 
+Whether its a serpentine, wyrm-like or any other form this magical fusion of legs into a coiling tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this Corpomorphing art, the patient loses their legs, which are fused into a serpentine tail. You gain a +2 item bonus to make an impression. In addition you no longer qualify for feats or features that require legs to function. However you now do qualify for any Nagaji feats that require a tail to function. The GM decides which feats qualify. 
 
 Furthermore you obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
 You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
