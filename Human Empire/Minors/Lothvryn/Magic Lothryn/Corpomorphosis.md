@@ -115,6 +115,25 @@ Price: 100gp
 Prerequisite: You are a plant
 Tiny fungal organisms enter a symbiotic relationship with you. In return for the sugar your photosynthesis produces they ensure that you won't starve in case of the absence of sunlight. Should no sunlight be present you can also survive like a creature with the fungus trait.
 
+**Faeform 9**
+(Uncommon) (Corpomorph) (Invested) (Magical)
+Usage: fused
+Price: 700 gp
+Prerequisite: You are a humanoid
+Instead of major alterations to your body it is instead reshaped primarily in the terms of beauty and elegance. You appear to be a beautiful Nymph. If you attempt to make an impression you gain a +2 item bonus to the check. In addition pick one of the folllowing options:
+
+Dryad 
+You appear as if you were a nymph of the woods. Your skin hardens into hard bark. You gain a +2 Item Bonus to AC.
+
+Hesperid
+A Nymph of the Sun and beautiful gardens is what your body resembles now. You gain a +2 Item Bonus to Performance checks. 
+
+Lampan
+The Nymphs known to be strong protectors makes your new form more formidable in combat. You gain a +2 item Bonus to hit. 
+
+Naiad
+As a water nymph you are impeccable in beauty and elegance while in water. You gain a 25ft swim speed. 
+
 **Grafts as Corpomorph:**
 The following section shows some example grafts, that could be used via the variant rule Grafts as Corpomorphs.
 
@@ -132,7 +151,6 @@ Maybe possible options?
 - Drake (Not sure what to give that would not be too op. Perhaps AC?
 - Insectoid options?
 - Avian options -> harpy?
-- Nymphs -> become a humanoid plant?
 
 Probably has to be tweaked
 - Exact numbers
