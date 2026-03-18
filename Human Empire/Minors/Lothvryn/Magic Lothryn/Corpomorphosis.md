@@ -122,16 +122,16 @@ Price: 700 gp
 Prerequisite: You are a humanoid
 Instead of major alterations to your body it is instead reshaped primarily in the terms of beauty and elegance. You appear to be a beautiful Nymph. If you attempt to make an impression you gain a +2 item bonus to the check. In addition pick one of the folllowing options:
 
-Dryad 
+**Dryad**
 You appear as if you were a nymph of the woods. Your skin hardens into hard bark. You gain a +2 Item Bonus to AC.
 
-Hesperid
+**Hesperid**
 A Nymph of the Sun and beautiful gardens is what your body resembles now. You gain a +2 Item Bonus to Performance checks. 
 
-Lampan
+**Lampan**
 The Nymphs known to be strong protectors makes your new form more formidable in combat. You gain a +2 item Bonus to hit. 
 
-Naiad
+**Naiad**
 As a water nymph you are impeccable in beauty and elegance while in water. You gain a 25ft swim speed. 
 
 **Grafts as Corpomorph:**
