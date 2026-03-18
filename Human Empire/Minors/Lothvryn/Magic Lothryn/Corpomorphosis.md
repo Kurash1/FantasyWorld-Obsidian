@@ -37,7 +37,7 @@ As a variant the GM can consider giving players merfolkification and its greater
 (Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 100 gp
-You grow a set of mammalian ears, a fitting tail and your feet are transformed into paws or hooves. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak if you new form has paws or a 5ft movement land speed increase if your new form has hooves. In addition your new tail can help you with balancing narrow surfaces or uneasy ground. You gain a +1 item bonus on checks for balancing. 
+You grow a set of mammalian ears, a fitting tail and your feet are transformed into paws or hooves. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak if your new form has paws or a 5ft movement land speed increase if your new form has hooves. In addition your new tail can help you with balancing narrow surfaces or uneasy ground. You gain a +1 item bonus on checks for balancing. 
 
 **Coiling Tail 9**
 (Uncommon) (Corpomorph) (Invested) (Magical)
