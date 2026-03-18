@@ -21,6 +21,9 @@ A Corpomorph has the Corpomorph trait. Items with this trait are permanently par
 
 If a creature attempts to get a new Corpomorph when their limit on invested items has already been reduced to zero, a Corpomorph cannot be performed; the body will simply refuse. The Corpomorph can only be performed if the creature’s limit on invested items is greater than zero. A Corpomorpher can upgrade a Corpomorph into its greater version just like when Crafting a greater version of an item.
 
+**Clothing Adaptation**
+Part of the cost of a Corpomorph is always also the adaptation of your clothes to your new form. You can gain the effects of the Restyle spell for one outfit you usually wear or own.
+
 **Sex changing via Corpomorphing**
 If you simply desire to change your sex via Corpomorphing many of the above rules do not apply. The change does not necessarily require a formula nor does it cost an invested slot. These changes are also treated as common and are easy to access by comparison. You gain no mechanical advantage out of these changes apart from being your desired sex. Treat a sex change via this in level like a Serum of Sex Shift but with more control over your new appearance and the cost of a permanent magic item of the equivalent level. Your new appearance must be normal for your ancestry. For example you may choose red hair as a human, elf or aiuvarin, even though this is an uncommon feature in your ancestry.
 
@@ -30,7 +33,7 @@ The GM may allow taking certain grafts as Corpomorphs instead. If so their rarit
 **Underwater Campaigns**
 As a variant the GM can consider giving players merfolkification and its greater version for free at no cost and no investment. This should make underwater only campaigns more viable while not adding any form of power creep. Players can then chose from a far bigger variety of ancestries than just seaborne ancestries. Quadrupedal characters may obtain Hippocampification and greater Merfolkification. Although in that case Hippocampification reduces landspeed to 5ft and also locks any leg based feats and features.
 
-mammalian Adaptation 4**
+**Mammalian Adaptation 4**
 (Uncommon) (Corpomorph) (Invested) (Magical)
 You grow a set of canine or mammalian ears, a fitting tail and your feet are transformed into paws or hooves. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak if you new form has paws or a 5ft movement land speed increase if your new form has hooves. In addition your new tail can help you with balancing narrow surfaces or uneasy ground. You gain a +1 item bonus on checks for balancing. 
 
