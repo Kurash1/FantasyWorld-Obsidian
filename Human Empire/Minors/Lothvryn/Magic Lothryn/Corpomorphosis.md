@@ -161,4 +161,3 @@ Probably has to be tweaked
 - Exact benefits might have to be split into multiple tiers of one item or actually reduced
 - Rules more clarified?
 - Some fluff?
-- Clothing Adaptation rules via free cast of restyle?
