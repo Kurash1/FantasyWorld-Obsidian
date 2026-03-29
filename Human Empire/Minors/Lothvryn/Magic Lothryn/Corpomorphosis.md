@@ -37,40 +37,57 @@ As a variant the GM can consider giving players merfolkification and its greater
 (Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 100 gp
-You grow a set of mammalian ears, a fitting tail and your feet are transformed into paws or hooves. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak if your new form has paws or a 5ft movement land speed increase if your new form has hooves. In addition your new tail can help you with balancing narrow surfaces or uneasy ground. You gain a +1 item bonus on checks for balancing. 
+You grow a set of mammalian ears, a fitting tail and your feet are transformed into paws or hooves. You gain a +1 item bonus to perception checks that rely on hearing or scent and you gain a +1 item bonus on stealth checks in order to sneak if your new form has paws or a 5ft land speed increase if your new form has hooves. If your new form also has a long tail you can instead chose to benefit from a +1 item bonus when balancing instead of the +1 item bonus to stealth checks the 5ft land speed.
 
 **Coiling Tail 9**
 (Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
-Whether its a serpentine, wyrm-like or any other form this magical fusion of legs into a coiling tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this Corpomorphing art, the patient loses their legs, which are fused into a serpentine tail. You gain a +2 item bonus to make an impression. In addition you no longer qualify for feats or features that require legs to function. However you now do qualify for any Nagaji feats that require a tail to function. The GM decides which feats qualify. 
+Whether its a serpentine, wyrm-like or any other form this magical fusion of legs into a coiling tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this Corpomorphing art, the patient loses their legs, which are fused into a serpentine tail. You gain a +2 item bonus to make an impression. In addition you no longer qualify for feats or features that require legs to function. However you now do qualify for any Nagaji feats that require a tail to function. The GM decides which feats qualify. However you do still have to use your ancestry feats to obtain those Nagaji feats.
 
-Furthermore you obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
+
+**Greater Coiling Tail 12**
+Price: 2000 gp
+You obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
 You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
 
 **Merfolkification 9**
 (Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
-The most refined Corpomorphing procedure currently known in the world. It is often undertaken by clients who absolutely detest being on land and long for the weightlessness of drifting in water or by adventurers who spend most of their time in aquatic environments. After undergoing this graft of Corpomorphing art, the patient loses their legs, which are fused into a dolphin-like or piscine tail. In addition new organs, webbed skin and fins are grown by your body to help with buoyancy. You however do not obtain any gills from this. Your land speed becomes 5ft and you obtain a 25ft swim speed. You no longer qualify for feats or features that require legs to function. However you now do qualify for certain Merfolk feats whose biological requirements you meet. The GM decides if you meet the biological requirements of those feats. If you want to pick the Shore Gift feat the GM might decide you have to spend active time researching the old magic it uses. 
+The most refined Corpomorphing procedure currently known in the world. It is often undertaken by clients who absolutely detest being on land and long for the weightlessness of drifting in water or by adventurers who spend most of their time in aquatic environments. After undergoing this graft of Corpomorphing art, the patient loses their legs, which are fused into a dolphin-like or piscine tail. In addition new organs, webbed skin and fins are grown by your body to help with buoyancy. You however do not obtain any gills from this. Your land speed becomes 5ft and you obtain a 25ft swim speed. You no longer qualify for feats or features that require legs to function. However you now do qualify for certain Merfolk feats whose biological requirements you meet. The GM decides if you meet the biological requirements of those feats. However you do still have to use your ancestry feats to obtain those Merfolk feats. If you want to pick the Shore Gift feat the GM might decide you have to spend active time researching the old magic it uses. 
 
-Special: If you also have Serpentine Surgery your land form with Shore Gift is your serpentine tail.
+Special: If you also have Coiling Tail your land form with Shore Gift is your Coiling Tail instead of legs.
 
 **Greater Merfolkification 12**
-Price 2000 gp
-Your Corpomorpher inserts aesthetically fitting auxiliary gills along the sides of your neck, adapts your blood and organs, and fashions airbags in your tail. These additions make you both more nimble and agile in the water. You can now also remain underwater for a much longer time.  Your swim speed increases to 30ft, you can remain underwater for up to 20 minutes before having to resurface again (If you have the Breath Control feat this means you can stay underwater for up to 500 minutes). Furthermore your hair is also made more sensitive to the water's currents. You gain wavesense as a  40ft precise sense. Lastly you can also sleep like a dolphin with only half of your brain sleeping. During this time you can dive up to gasp for air but take no other actions that would interrupt your long rest as normal.
+Price: 2000 gp
+Your Corpomorpher inserts aesthetically fitting auxiliary gills along the sides of your neck, adapts your blood and organs, and fashions airbags in your tail. These additions make you both more nimble and agile in the water. You can now also remain underwater for a much longer time.  Your swim speed increases to 30ft, you can remain underwater for up to 20 minutes before having to resurface again (If you have the Breath Control feat this means you can stay underwater for up to 500 minutes). Furthermore your hair is also made more sensitive to the water's currents. 
+
+**Aqua-auditory enhancements 10**
+(Uncommon) (Corpomorph) (Invested) (Magical)
+Usage: fused
+Price: 1000 gp 
+Prerequisite: You are adapted to an aquatic lifestyle
+Either your hair is made more sensitive to the waves currents or a form of natural sonar is grown out of your body. You gain wavesense as a 40ft precise sense. Lastly you can also sleep like a dolphin with only half of your brain sleeping. During this time you can dive up to gasp for air but take no other actions that would interrupt your long rest as normal.
 
 **Quadrupedal Locomotion 9**
-(Corpomorph) (Invested) (Magical)
+(Uncommon) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 700 gp
 When undergoing this Corpomorph pick one of the options below to which you have access via a formula. You can only pick one of them and they may not be mixed. 
 
-**Centaurfication (Rare):**
-This Corpomorph was originally developed to make soldiers in battle far more dangerous and not having to rely on panicking horses. Armies soon realised that having a soldier on 4 strong legs is far superior to using horses who may or may not listen to a command. Furthermore another soldier could also ride on them doubling the amount of soldiers in the same place. You now count as a large creature if you were not already and you obtain the Centaur features Mount and Robust. Your movement speed increases to 30ft and you qualify for centaur feats that require a quadrupedal Locomotion. The GM decides if you qualify for a Centaur feat in this way.
+**Centaurfication:**
+This Corpomorph was originally developed to make soldiers in battle far more dangerous and not having to rely on panicking horses. Armies soon realised that having a soldier on 4 strong legs is far superior to using horses who may or may not listen to a command. Furthermore another soldier could also ride on them doubling the amount of soldiers in the same place. Your movement speed increases to 30ft and you qualify for centaur feats that require a quadrupedal Locomotion. The GM decides if you qualify for a Centaur feat in this way. However you do still have to take them as Ancestry feats if you want to take them.
 
-**Deer-like Elegance (Uncommon):**
-This Corpomorph is seen as a potential right of passage in some druidic circles because those druids believe that it binds you closer to the nature surrounding you. It has recently become a fashion trend among younger elves, many of whom are now quadrupedal. Your lower body is beautifully reshaped into that of a forest stag. As new hind legs grow and hooves form you gain the ability to treat difficult terrain in the natural habitats of deer as regular terrain. Furthermore you gain an unarmed attack that deals 1d8 bludgeoning damage as antlers sprout from your head. The antlers are in the brawling group and have the shove and twin traits. 
+**Deer-like Elegance:**
+This Corpomorph is seen as a potential right of passage in some druidic circles because those druids believe that it binds you closer to the nature surrounding you. It has recently become a fashion trend among younger elves, many of whom are now quadrupedal. Your lower body is beautifully reshaped into that of a forest stag. As new hind legs grow and hooves form you gain the ability to treat difficult terrain in the natural habitats of deer as regular terrain. Furthermore you gain an unarmed attack that deals 1d6 bludgeoning damage as antlers sprout from your head. The antlers are in the brawling group and have the shove trait. 
+
+**Equestrian Constitution 12**
+(Rare) (Corpomorph) (Invested) (Magical)
+Usage: fused
+Price: 2000 gp
+Prerequisite: You have Centaurfication
+You become a large creature and gain the Centaur feature Mount. 
 
 **Quadrupedal Locomotion (Greater) 12**
 Price: 2000 gp
@@ -79,14 +96,14 @@ Price: 2000 gp
 Your lower body is reworked into a more specific equestrian form through the Corpomorphing arts already used to form it in the first place. You can pick one of the centaur heritages benefits. 
 
 **Deer-like Elegance (Greater):** 
-Your Corpomorpher reworks your body into an even more striking form. With your lower body now resembling that of a mighty Emperor Stag your Antlers now deal 2d8 bludgeoning damage and gain the trip trait.
+Your Corpomorpher reworks your body into an even more striking form. With your lower body now resembling that of a mighty Emperor Stag your Antlers now deal 2d6 bludgeoning damage and gain the trip trait.
 
 **Hippocampification 12**
 (Rare) (Corpomorph) (Invested) (Magical)
 Price: 2000 gp 
 Prerequisite: You have underwent Quadrupedal Locomotion or you already had a quadrupedal Ancestry
 
-Your quadrupedal body is adapted to also be useful underwater but unlike an ordinary Hippocamp you are still useful on land as well. Your tail is remodelled to be dolphin-like and fins are added close to your hooves. Your land speed is reduced by 5ft and you obtain a 30ft swim speed. Additionally you also obtain a tail attack which is a reach of 10ft weapon and deals 1d6 bludgeoning damage. 
+Your quadrupedal body is adapted to also be useful underwater but unlike an ordinary Hippocamp you are still useful on land as well. Your tail is remodelled to be dolphin-like and fins are added close to your hooves. Your land speed is reduced by 5ft and you obtain a 25ft swim speed. Additionally you also obtain a tail attack which is a 10ft reach weapon and deals 1d6 bludgeoning damage. 
 
 Special: You may chose the greater version of Merfolkification with this Corpomorphosis fused into your body. If you do so treat greater Merfolkification as 2 levels higher in terms of access and cost. 
 
@@ -97,20 +114,20 @@ Price 700 gp
 Your lower body is completely liquefied and your biomass reshaped into a chitinous exoskeleton. Your torso now finds itself resting upon a spider's or scorpion's body instead of your original lower limbs.  Choose either spider or scorpion as form. If you do so you gain the following benefits:
 
 **Spider** 
-Your land speed increases to 30ft and you obtain a climb speed of 30ft. In addition you can now weave spider silk strings from your newly obtained physiology which you may use as a rope or to build webs with. Building a web takes 1d4 hours of work and every creature caught int the web is immobilised if they do not succeed at a DC15 Fortitude saving throw.  A creature can attempt another check to free itself on the beginning of its turn. Alternatively a creature can also be instantly freed by burning the web. Furthermore you may pick Anadi feats for which you meet the biological criteria as determined by the GM.
+Your land speed increases to 30ft and you obtain a climb speed of 25ft. Furthermore you may pick Anadi feats for which you meet the biological criteria as determined by the GM. However you do still have to use your Ancestry Feats if you want to take them. 
 
 **Scorpion**
-You now stand proudly on 8 legs and obtain a stinger full of venom.  The stinger is an agile, reach of 10ft weapon and deals 1d8 slashing damage. You can attempt to grab a creature you have successfully stung with it. Any creature successfully stung by you also has to succeed at a DC 18 Fortitude saving throw or be poisoned as follows: **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and enfeebled 1 (1 round); **Stage 2** 2d10 poison damage and enfeebled 1 (1 round); **Stage 3** 2d10 poison damage and enfeebled 2 (1 round).
+You now stand proudly on 8 legs and obtain a stinger full of venom.  The stinger is an agile, 10ft  reach weapon and deals 1d8 slashing damage. You can attempt to grab a creature you have successfully stung with it. Any creature successfully stung by you also has to succeed at a DC 18 Fortitude saving throw or be poisoned as follows: **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and enfeebled 1 (1 round); **Stage 2** 2d10 poison damage and enfeebled 1 (1 round); **Stage 3** 2d10 poison damage and enfeebled 2 (1 round).
 
 **Malleable Form 17**
 (Rare) (Corpomorph) (Invested) (Magical)
 Usage: fused
 Price: 15000 gp
-Your entire body is dissolved into a gelatinous ooze-like form. If you attempt a deception check to pass as a generic member of any ancestry of the same size as you, you automatically succeed. Although if you want to pass as a specific member of that ancestry you still roll as normal butwith a +3 item bonus to the check. In addition you gain the effects of the Quick Squeeze feat. 
+Your entire body is dissolved into a gelatinous ooze-like form and you can take any form of the same size as you as you please with an action. If you attempt a deception check to pass as a generic member of any ancestry of the same size as you, you automatically succeed. Although if you want to pass as a specific member of that ancestry you still roll as normal but with a +3 item bonus to the check. In addition you gain the effects of the Quick Squeeze feat. 
 
 **Malleable Form (Greater) 20**
 Price: 14000 gp 
-You gain the effects of the Implausible Infilitration feat.
+You gain the effects of the Implausible Infiltration feat.
 
 **Mykorrhiza 4**
 (Uncommon) (Corpomorph) (Invested) (Magical)
@@ -145,19 +162,9 @@ The following section shows some example grafts, that could be used via the vari
 (Graft) (Invested) (Magical)
 Usage: implanted
 Price: 2000 gp
-You sport serpent-like eyes and gain the ability to see in infrared and ultraviolet. Allowing you to see these colours as well and use a form of heat vision. You gain darkvision at 30ft precise sense. 
+You sport serpent-like eyes and gain the ability to see in infrared and ultraviolet. Allowing you to see these colours as well and use a form of heat vision. You gain darkvision at 30ft as a precise sense. 
 
 **Serpentine Eyes (Major) 18**
 Price: 24000 gp
 You gain greater darkvision instead of darkvision.
 
-Maybe possible options?
-- Drake (Not sure what to give that would not be too op. Perhaps AC?
-- Insectoid options?
-- Avian options -> harpy?
-
-Probably has to be tweaked
-- Exact numbers
-- Exact benefits might have to be split into multiple tiers of one item or actually reduced
-- Rules more clarified?
-- Some fluff?
