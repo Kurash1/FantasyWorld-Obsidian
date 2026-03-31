@@ -11,7 +11,7 @@ Corpomorphs are altered tissue of a host that gives them a partially altered for
 You must take the Alchemical Crafting or Magical Crafting feat in addition to the Graft Technician feat to fuse Corpomorphs.
 
 **Fusing a Corpomorph**
-Fusing a Corpomorph is a downtime activity, using the same rules as Crafting an item except as follows. The grafter uses the Medicine skill and whatever skill they chose to qualify for this. The average of both rolls is the degree of success of the check. The creature must be a willing participant and must be present throughout the process. The Corpomorpher can only Corpomorph one Corpomorph at a time. Once the Corpomorphing is complete, the fused subject can begin using the Corpomorph. Corpomorphs are always created from the subjects own physical body or newly grown tissue. Only forms similar enough to one's own Ancestry or narratively justified may be chosen. The GM determines both biological plausibility and narrative justification. Likewise not all types of Corpomorphs can stack. For example a merfolk form cannot stack with quadrupedal locomotion as one form requires legs while the other requires the absence of them. Unless specifically stated the GM determines if two Corpomorphs can stack or not. 
+Fusing a Corpomorph is a downtime activity, using the same rules as Crafting an item except as follows. The grafter uses the Medicine skill and whatever skill they chose to qualify for this. Roll for both skills and pick the lower to function as your result. The creature must be a willing participant and must be present throughout the process. The Corpomorpher can only Corpomorph one Corpomorph at a time. Once the Corpomorphing is complete, the fused subject can begin using the Corpomorph. Corpomorphs are always created from the subjects own physical body or newly grown tissue. Only forms similar enough to one's own Ancestry or narratively justified may be chosen. The GM determines both biological plausibility and narrative justification. Likewise not all types of Corpomorphs can stack. For example a merfolk form cannot stack with quadrupedal locomotion as one form requires legs while the other requires the absence of them. Unless specifically stated the GM determines if two Corpomorphs can stack or not. 
 
 **Damaging a Corpomorph**
 Once a Corpomorphing is successfully performed, it is part of the regular body of the subject and can't take damage separately, just like any original body part. If a Corpomorphing is ever severed from the subject's body, it can be reconnected by any method that allows a severed body part to be reattached (such as the regenerate spell). Once a Corpomorphing is destroyed before it can be reattached, it can be regrown by any effect that allows regrowth of lost organs.
@@ -45,11 +45,9 @@ Usage: fused
 Price: 700 gp
 Whether its a serpentine, wyrm-like or any other form this magical fusion of legs into a coiling tail is popular among nobles in Lothvryn, who spend long hours standing at diet meetings and other court events. After undergoing this Corpomorphing art, the patient loses their legs, which are fused into a serpentine tail. You gain a +2 item bonus to make an impression. In addition you no longer qualify for feats or features that require legs to function. However you now do qualify for any Nagaji feats that require a tail to function. The GM decides which feats qualify. However you do still have to use your ancestry feats to obtain those Nagaji feats.
 
-
 **Greater Coiling Tail 12**
 Price: 2000 gp
-You obtain the effects of the Sacred Nagaji Heritage. Listed here for your convenience:
-You have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
+You obtain a powerful whip attack with your tail. It deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to Grapple or Trip you. This bonus also applies to saving throws against effects that would grab you, restrain you, or knock you prone.
 
 **Merfolkification 9**
 (Uncommon) (Corpomorph) (Invested) (Magical)
@@ -144,13 +142,10 @@ Prerequisite: You are a humanoid
 Instead of major alterations to your body it is instead reshaped primarily in the terms of beauty and elegance. You appear to be a beautiful Nymph. If you attempt to make an impression you gain a +2 item bonus to the check. In addition pick one of the folllowing options:
 
 **Dryad**
-You appear as if you were a nymph of the woods. Your skin hardens into hard bark. You gain a +2 Item Bonus to AC.
+You appear as if you were a nymph of the woods. Your skin hardens into hard bark. You can cast Oaken Resilience twice per day as a 2nd-rank primal innate spell.
 
 **Hesperid**
 A Nymph of the Sun and beautiful gardens is what your body resembles now. You gain a +2 Item Bonus to Performance checks. 
-
-**Lampan**
-The Nymphs known to be strong protectors makes your new form more formidable in combat. You gain a +2 item Bonus to hit. 
 
 **Naiad**
 As a water nymph you are impeccable in beauty and elegance while in water. You gain a 25ft swim speed. 
