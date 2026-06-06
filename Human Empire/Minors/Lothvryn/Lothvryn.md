@@ -2,7 +2,7 @@
 Realm of gothic ruins, esoteric magical and superstitious effects.
 Government: Court of Perpetual Beauty (Authoritarian Monarchy)
 Capital: Nikoleapolis
-Population: TBD
+Population: [[Human|Humans]],  [[Nephelim]]
 Languages: Common, Tyller, Arkor
 Religions: [[Divine Tribe]]
 Other Characteristics: 
