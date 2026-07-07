@@ -3,7 +3,7 @@ Insights of the arcane school of keen inquiry Volume V: The religious landscape 
 While many people seem to believe the [[Vornari]] are quite rigid and live in a highly stratified society this cannot be noted to be true at all. It is far more so that they are a culture maimed by external forces that kept pushing them to boundaries no customary law set could ever absorb. The gaping difference can be seen within their religion most clearly. As they worship a rather local religion named the Rose Cult. Dogmatically focusing on the saving grace of the Rose Dragons that saved them during the [[March of Thorns and Tears]] and revering the [[Rose-Blessed]] sorcerers they created as semi religious figures it has a rather unique dogma based in the portfolio of these dragons.
 
 --- 
-The Vornari believe in four such dragons to exist ironically matching all the naturally existing rose colours leaving artificial ones fully out.
+The [[Vornari]] believe in four such dragons to exist ironically matching all the naturally existing rose colours leaving artificial ones fully out.
 
 Azkor the Healer is an ancient yellow rose dragon. He is known to heal morally good people through dreams and visions. He is also known to provide states of delirium to his followers in which they receive visions regarding their friends and family. Azkor is also deeply invested in his friends and family and will do anything to heal them should they come into harms way. However he is also known to easily become jealous if he thinks you ignore him. 
 Portfolio: vitality, fraternity, protection, dreams
