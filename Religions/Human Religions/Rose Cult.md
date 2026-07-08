@@ -34,3 +34,15 @@ Anathema:
 - insult a [[Rose-Maidens]]
 
 These have some interesting repercussions. As it is usually seen [[Rose-Maidens]] are virgins which is true in general but far from a universal rule. In fact many romantic and even sexual relations occur between [[Rose-Blessed]] and [[Rose-Maidens]] and among themselves as well. It seem to far more be a social expectation that should a pregnancy occur it should be from a [[Rose-Blessed]]. Which would also explain why many [[Rose-Maidens]] come from families who are already known to have brought forth several [[Rose-Blessed]]. A glaring difference from the early [[Rose Sanctum]] days of Vorn. In conclusion [[Vorn]] seems to be far more a society of sexually open artists that got forced into an organised and codified legal culture by external pressure. Their problem seems to only be that they overdone it and got entangled in a mess of contradictory statute. Only time will tell if the new queen [[Elyria Vesher]] will be able to untangle this. 
+
+---
+In addition to this there is one more interesting prospect to note. The [[Vornari]] do seem to somewhat revere [[Alexander]] although he seems secondary to the dragons. Which is at best a heterodox stance and at worst straight out heresy. I feel unqualified to make a judgement upon this. However this makes sense in so far that the dragons had a far more direct saving role for them than [[Alexander]] did. After all he could not have lifted the siege of Roseria at all if the dragons had not save the [[Vornari]] in the first place. Which leads to the equally heterodox aspect they call actionability. Basically a major discussion about how much divine power matters in a vacuum versus how much the direct execution of divine power matters. Several distinct schools of thought evolved out of this that I will briefly introduce.
+
+- The gods sent the dragons henceforth the gods are the most important
+	- This stance argues that Alexander and the dragons are on the same level below the gods. It is a low actionability model. Very unpopular in their country as far as I can tell with only a few people defending it.
+- The dragons were sent by the gods and so was Alexander
+	- This theory upholds that the gods are supreme but the dragons and alexander expressed the divine duty through actionability. This is a popular stance in [[Vorn]] but not the main one.
+- The dragons were sent first so Alexander even finds people to organise his new realm in the first place
+	- This is the most popular stance in the [[Vornari]] clergy clearly stating the gods are supreme but [[Alexander]] is secondary to the dragons as he only arrived far, far, far later.
+- The ways of the gods are many and mysterious
+	- An unpopular stance that refuses to draw a verdict on the divine order at all. Merely stating that the gods are supreme and we mere mortals may not know which order below them is correct.
