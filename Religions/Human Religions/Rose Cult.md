@@ -41,7 +41,7 @@ In addition to this there is one more interesting prospect to note. The [[Vornar
 - The gods sent the dragons henceforth the gods are the most important
 	- This stance argues that Alexander and the dragons are on the same level below the gods. It is a low actionability model. Very unpopular in their country as far as I can tell with only a few people defending it.
 - The dragons were sent by the gods and so was Alexander
-	- This theory upholds that the gods are supreme but the dragons and alexander expressed the divine duty through actionability. This is a popular stance in [[Vorn]] but not the main one.
+	- This theory upholds that the gods are supreme but the dragons and [[Alexander]] expressed the divine duty through actionability. This is a popular stance in [[Vorn]] but not the main one.
 - The dragons were sent first so Alexander even finds people to organise his new realm in the first place
 	- This is the most popular stance in the [[Vornari]] clergy clearly stating the gods are supreme but [[Alexander]] is secondary to the dragons as he only arrived far, far, far later.
 - The ways of the gods are many and mysterious
