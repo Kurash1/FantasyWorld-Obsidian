@@ -3,9 +3,9 @@ Insights of the arcane school of keen inquiry Volume V: The religious landscape 
 While many people seem to believe the [[Vornari]] are quite rigid and live in a highly stratified society this cannot be noted to be true at all. It is far more so that they are a culture maimed by external forces that kept pushing them to boundaries no customary law set could ever absorb. The gaping difference can be seen within their religion most clearly. As they worship a rather local religion named the Rose Cult. Dogmatically focusing on the saving grace of the Rose Dragons that saved them during the [[March of Thorns and Tears]] and revering the [[Rose-Blessed]] sorcerers they created as semi religious figures it has a rather unique dogma based in the portfolio of these dragons.
 
 --- 
-The [[Vornari]] believe in four such dragons to exist ironically matching all the naturally existing rose colours leaving artificial ones fully out.
+The [[Vornari]] believe in four such dragons to exist matching all the naturally existing rose colours leaving artificial ones fully out. This potentially excludes artificial rose coloured rose dragons who may or may not exist.
 
-Azkor the Healer is an ancient yellow rose dragon. He is known to heal morally good people through dreams and visions. He is also known to provide states of delirium to his followers in which they receive visions regarding their friends and family. Azkor is also deeply invested in his friends and family and will do anything to heal them should they come into harms way. However he is also known to easily become jealous if he thinks you ignore him. 
+Azkor the Healer is an ancient yellow rose dragon. He is known to heal people following the rose cult virtues through dreams and visions. He is also known to provide states of delirium to his followers in which they receive visions regarding their friends and family. Azkor is also deeply invested in his friends and family and will do anything to heal them should they come into harms way. However he is also known to easily become jealous if he thinks you ignore him. 
 Portfolio: vitality, fraternity, protection, dreams
 
 Ozembra the Mother Ozembra is an ancient red rose dragon. She is known for her passion and her love to those she deems family. She sees it as her foremost duty to provide to family and home. This however she does to such a perfectionist degree that she is often obsessive about it.
@@ -21,7 +21,7 @@ Portfolio: romantic love, sexuality, creation
 Those four dragons  are matched by four types of [[Rose-Blessed]] who mirror to a degree their ancestor dragons personalities with pink being the most common type of them to nobody's surprise. As far as dogma goes [[Vornari]] are therefore equally upholden to follow their ancestor dragons teachings. A few edicts and anathema I could derive out of the religion.
 
 Edicts:
-- be sexually open to all forms of consenting love
+- be open to all forms of consenting love
 - create art 
 - find knowledge and beauty in the world
 - indulge in life
@@ -40,7 +40,7 @@ In addition to this there is one more interesting prospect to note. The [[Vornar
 
 - The gods sent the dragons henceforth the gods are the most important
 	- This stance argues that Alexander and the dragons are on the same level below the gods. It is a low actionability model. Very unpopular in their country as far as I can tell with only a few people defending it.
-- The dragons were sent by the gods and so was Alexander
+- The dragons were sent by the gods and so was [[Alexander]]
 	- This theory upholds that the gods are supreme but the dragons and [[Alexander]] expressed the divine duty through actionability. This is a popular stance in [[Vorn]] but not the main one.
 - The dragons were sent first so Alexander even finds people to organise his new realm in the first place
 	- This is the most popular stance in the [[Vornari]] clergy clearly stating the gods are supreme but [[Alexander]] is secondary to the dragons as he only arrived far, far, far later.
