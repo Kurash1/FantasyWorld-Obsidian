@@ -46,3 +46,6 @@ In addition to this there is one more interesting prospect to note. The [[Vornar
 	- This is the most popular stance in the [[Vornari]] clergy clearly stating the gods are supreme but [[Alexander]] is secondary to the dragons as he only arrived far, far, far later.
 - The ways of the gods are many and mysterious
 	- An unpopular stance that refuses to draw a verdict on the divine order at all. Merely stating that the gods are supreme and we mere mortals may not know which order below them is correct.
+
+--- 
+It proved quite difficult to track their beliefs into an afterlife however considering the very narrow scope of this heterodox topper religion upon the religious structure of the [[Divine Tribe]]. After much inquiry however it was however managed to extract some broad patterns. First [[Vornari]] reject that the concept of death is a natural consequence they have to endure at all and must therefore be eliminated in a vitalic way. Second they believe that they will be reborn as powerful Azata should they die after all.  Not much more information was given out than this. But it would make sense for a religion that focuses on continuous growth, prosperity and life to have such believes. Azata are also known to be one of the most musing and active divine beings. 
