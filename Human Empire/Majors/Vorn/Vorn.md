@@ -18,7 +18,7 @@ State Motto: Numquam assumas, semper confirma. (Never assume, always assure.)
 
 **[[Vorn#Demographics]]**
 Population: [[Human]], [[Kobold]], [[Elf]], [[Gnome]], [[Halfling]]
-Languages: [[Common]], [[Draconic]], [[Dwarfish]], [[Elvish]], [[Gnomish]], [[Halflingish]], [[Vornese]], [[Old Watarian]]
+Languages: [[Common]], [[Draconic]], [[Elvish]], [[Gnomish]], [[Halflingish]], [[Vornese]], [[Old Watarian]]
 Religions: [[Divine Tribe]] (state religion), [[Rose Cult]] (state religion), [[The Council]], [[Elven Pantheon]]
 Prohibited Religions: Demonic Cults, Devilish Cults
 
