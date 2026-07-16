@@ -23,7 +23,7 @@ Not an inventor of any known major school per se this tower is heavily involved 
 
 [The Towers#Holly Tower]
 Holly Tower:
-The most brutal war mages and evokers graduate from this academy. Contless generations of imperial and gnomish battle mages call this academy their alma mater. It invented the School of Battle Magic to nobody's surprise.
+The most brutal war mages and evokers graduate from this academy. Countless generations of imperial and gnomish battle mages call this academy their alma mater. It invented the School of Battle Magic to nobody's surprise.
 
 [The Towers#Juniper Tower]
 Juniper Tower:
