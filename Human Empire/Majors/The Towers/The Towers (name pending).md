@@ -39,7 +39,7 @@ The capital and elector country of the academy network. Situated in Lake Arcanis
 
 [The Towers#Rowan Tower]
 Rowan Tower:
-Originally destroyed during the Age of Collapse the Grand Duchy of [[Vorn]] agreed to rebuild the place in return for an eternal commitment to educate their [[Rose-Blessed]] sorcerers. Its original focus however is on fae magic, enchantment and illusions. It invented the School of Mentalism.
+Originally destroyed during the Age of Collapse the Grand Duchy of [[Vorn]] agreed to rebuild the place in return for an eternal commitment to educate their [[Rose-Blessed]] sorcerers. Its original focus however is on fae magic, enchantment and illusions. It invented the School of Mentalism and the School of Breathtaking Influence.
 
 [The Towers#Willow Tower]
 Willow Tower:
