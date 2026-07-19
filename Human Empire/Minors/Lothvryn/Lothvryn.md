@@ -2,7 +2,7 @@
 Realm of gothic ruins, esoteric magical and superstitious effects.
 Government: Court of Perpetual Beauty (Authoritarian Monarchy)
 Capital: Nikoleapolis
-Population: [[Human|Humans]],  [[Nephelim]]
+Population: [[Human|Humans]],  [[Nephilim]]
 Languages: Common, Tyller, Arkor
 Religions: [[Divine Tribe]]
 Other Characteristics: 
@@ -12,7 +12,7 @@ Other Characteristics:
 ---
 Primary Exports: Luxury Goods, Clothing, Fabrics
 Primary Imports: Metals, Minerals
-Allies: [[Vorn]], [[Astviel]]
+Allies: [[Vorn]], [[Astviel]] (both supposedly)
 Enemies: [[Tylldrakes]]
 
 ---
