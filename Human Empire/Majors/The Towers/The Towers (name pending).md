@@ -13,6 +13,10 @@ A tower that focuses on abjuration, psychic powers, oracles, and conjuration. It
 Ash Tower:
 This tower is the inventor of the School of Ars Grammatica and focuses on Divination as well as Time and Rune Magic
 
+ [The Towers#Birch Tower]
+ Birch Tower:
+ Focusing on healing, purification and protective forms of magic. This tower has prime medical championing records. It also focuses on growth spells.
+
 [The Towers#Elder Tower]
 Elder Tower:
 Situated in [[Astviel]] this tower is a very esoteric and occult institution. It also heavily dabbles in necromancy much to the suspicion of the other academies. However if you need to find occult knowledge this is one of the best addresses for it. 
