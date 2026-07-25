@@ -27,7 +27,7 @@ The most brutal war mages and evokers graduate from this academy. Countless gene
 
 [The Towers#Juniper Tower]
 Juniper Tower:
-Wards and Spirits are the speciality of this rather esoteric Tower. Otherwise due to exactly those wards not much is known about this tower. 
+Wards and Spirits are the speciality of this rather esoteric Tower. Otherwise due to exactly those wards not much is known about this tower. It invented the school of nexian spaces. 
 
 [The Towers#Mistletoe Tower]
 Mistletoe Tower:
