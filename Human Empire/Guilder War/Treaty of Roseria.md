@@ -10,5 +10,5 @@ Article 7: The Kingdom of [[Vorn]] will not be forced, coerced, nor otherwise ma
 Article 8: The Imperial Regent will recognise the continuation of the Kingdom of [[Vorn]]'s Arch-stewardship. 
 Article 9: The King of Vorn will sign the [[Guilder League Prohibition Act]] and uphold the [[Dragon Pact]]
 with due diligence. 
-Article 10: The new King of Vorn will govern with the [[Vornari]] estates in due diligence and do his utmost to govern the realm effectively in mutual understand with the Rose Council. An neglect of duty will trigger an immediate election to settle for a new king.
+Article 10: The new King of Vorn will govern with the [[Vornari]] estates in due diligence and do his utmost to govern the realm effectively in mutual understand with the Rose Council. Any neglect of duty will trigger an immediate election to settle for a new king.
 Article 11: The Throne of [[Vorn]] shall not be viewed as hereditary should the position be  vacant a free election will be held by the members of the Rose Council. No dynastic ties will be influencing the decision of the council.

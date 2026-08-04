@@ -13,6 +13,3 @@ Elyria Vesher is the niece of the imperial regent [[Lothaire Vesher]]. From a yo
 5. Settle more [[Halfling|halflings]] in western [[Vorn]] to increase agricultural output.
 6. Abolish the tuition fees at Rowan Tower and the [[University of Roseria]].
 7. Dissolve the Guilds to increase industrial output. 
-8. Strengthen the [[Dragon Pact]] and follow its original target of cutting of the [[Guilder League]]'s trade. 
-9. Invade [[Hamburrow]] if the opportunity ever arises. 
-10. Seize the Crown of [[Veshni]] and be elected regent.  
